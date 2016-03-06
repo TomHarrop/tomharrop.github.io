@@ -8,11 +8,11 @@ resume.pdf: resume.md
 	-o resume.tex resume.md; \
 	context resume.tex
 
-html: resume.html
-resume.html: style_chmduquesne.css resume.md
+html: index.html
+index.html: style_chmduquesne.css resume.md
 	pandoc --standalone -H style_chmduquesne.css \
         --from markdown --to html \
-        -o resume.html resume.md
+        -o index.html resume.md
 
 docx: resume.docx
 resume.docx: resume.md
