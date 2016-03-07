@@ -10,9 +10,11 @@ resume.pdf: resume.md
 
 html: index.html
 index.html: style_chmduquesne.css resume.md
-	pandoc --standalone -H style_chmduquesne.css \
-        --from markdown --to html \
-        -o index.html resume.md
+	pandoc --from markdown --to html5 \
+		--css css/bootstrap.css --css css/indents.css \
+		--standalone --template template.html5 \
+		-o index.html resume.md
+
 
 docx: resume.docx
 resume.docx: resume.md
@@ -23,7 +25,7 @@ resume.rtf: resume.md
 	pandoc -s -S resume.md -o resume.rtf
 
 clean:
-	rm resume.html
+	rm index.html
 	rm resume.tex
 	rm resume.tuc
 	rm resume.log
