@@ -32,7 +32,7 @@ h1 {
 }
 .pdfdownload a {
     position: absolute;
-    top: -70px;
+    top: -65px;
     right: 0;
 }
 .pdfdownload {
@@ -54,6 +54,13 @@ blockquote {
     dd {
     	margin-left: 40px;
 	}
+    .pdfdownload a {
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100px;
+    margin: 0 auto;}
+
 }
 
 </style>
