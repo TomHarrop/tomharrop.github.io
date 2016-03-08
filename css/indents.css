@@ -22,6 +22,9 @@ dt {
 dd {
     margin-left: 17%;
 }
+ul {
+	padding-left: 40px;
+}
 
 /* Title of the resume */
 h1 {
@@ -36,7 +39,13 @@ blockquote {
 
 @media (max-width: 600px) {
     dt {
+    	float: none;
+    	clear: none;
+    	width: 100%;
     }
+    dd {
+    	margin-left: 40px;
+	}
 }
 
 </style>
