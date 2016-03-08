@@ -13,7 +13,7 @@ title: "Johnny Coder"
 2010-2014 (expected)
 
 :	**PhD, Computer Science**; Awesome University (MyTown)\
-:	*Thesis title*: Deep Learning Approaches _to_ **the** Self-Awesomeness Estimation Problem
+	*Thesis title*: Deep Learning Approaches _to_ **the** Self-Awesomeness Estimation Problem
 
  
 2007-2010
