@@ -80,9 +80,7 @@ $endfor$
 
 \starttext
 $if(title)$
-\startalignment[center]
-  \blank[2*big]
-  {\tfd $title$}
+\section[title]{$title$}
 $if(author)$
   \blank[3*medium]
   {\tfa $for(author)$$author$$sep$\crlf $endfor$}
