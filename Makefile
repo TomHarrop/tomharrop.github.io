@@ -26,7 +26,7 @@ resume.rtf: resume.md
 
 clean:
 	rm index.html
-	rm pdf/resume.tex
+	rm resume.tex
 	rm pdf/resume.tuc
 	rm pdf/resume.log
 	rm pdf/resume.pdf
