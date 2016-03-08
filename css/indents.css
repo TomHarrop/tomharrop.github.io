@@ -8,7 +8,8 @@
  * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
  */
 
-/* Definitions */
+
+ /* Definitions */
 dt {
 }
 
@@ -20,6 +21,22 @@ dt {
 }
 dd {
     margin-left: 17%;
+}
+
+/* Title of the resume */
+h1 {
+    text-align:center;
+}
+
+/* Blockquotes */
+blockquote {
+    text-align: center;
+    border: none;
+}
+
+@media (max-width: 600px) {
+    dt {
+    }
 }
 
 </style>
