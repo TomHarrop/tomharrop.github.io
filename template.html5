@@ -44,7 +44,7 @@ $endfor$
 $if(title)$
 <header>
 <h1 id="title">$title$</h1>
-<div class="pdfdownload"><a href="pdf/resume.pdf">PDF version</a></div>
+<div class="pdfdownload"><a href="pdf/resume.pdf" class="btn btn-success btn-xs">PDF version</a></div>
 $if(subtitle)$
 <h1 class="subtitle">$subtitle$</h1>
 $endif$
