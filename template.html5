@@ -44,6 +44,7 @@ $endfor$
 $if(title)$
 <header>
 <h1 id="title">$title$</h1>
+<div class="pdfdownload"><a href="pdf/resume.pdf">PDF version</a></div>
 $if(subtitle)$
 <h1 class="subtitle">$subtitle$</h1>
 $endif$
@@ -64,9 +65,6 @@ $body$
 $for(include-after)$
 $include-after$
 $endfor$
-<blockquote>
-<a href="pdf/resume.pdf">Download this resume as PDF</a>
-</blockquote>
 </div>
 </body>
 </html>

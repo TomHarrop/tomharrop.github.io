@@ -30,6 +30,14 @@ ul {
 h1 {
     text-align:center;
 }
+.pdfdownload a {
+    position: absolute;
+    top: -70px;
+    right: 0;
+}
+.pdfdownload {
+      position: relative;
+}
 
 /* Blockquotes */
 blockquote {
