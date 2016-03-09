@@ -12,7 +12,7 @@ html: index.html
 index.html: style_chmduquesne.css resume.md
 	pandoc --from markdown --to html5 \
 		--css css/bootstrap.css --css css/indents.css \
-		--standalone --template template.html5 \
+		--smart --standalone --template template.html5 \
 		-o index.html resume.md
 
 

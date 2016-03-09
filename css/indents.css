@@ -39,6 +39,11 @@ h1 {
       position: relative;
 }
 
+h2#references ~ p {
+  text-indent: -40px;
+  padding-left:40px;
+}
+
 /* Blockquotes */
 blockquote {
     text-align: center;
