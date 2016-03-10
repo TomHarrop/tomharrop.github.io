@@ -99,11 +99,13 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ^§^ Equal contribution
 
-## Conference presentations {#references}
+## Selected conference presentations {#references}
 
-**SMBE Vienna**. Probably make this ref style as well. Need a big ole line of text to check indenting. Maybe even more that this.
+**Thomas W. R. Harrop**, Gregis, V., Ud Din, I., Kater, M., Jouannic, S. and Adam, H. *Molecular mechanisms underlying the phenotypic convergence of inflorescence architecture in domesticated rice species.* Society for Molecular Biology and Evolution annual meeting*, 2015, Vienna, Austria
 
-**Fly conference**. As in, the whole subsection.
+**Harrop, T.W.R.**, Ud Din, I., Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. *Transcriptomic analysis of early developmental stages of the rice panicle.* Workshop in Molecular Mechanisms Controlling Flowering, 2015, Aiguablava, Spain.
+
+**Harrop, T.W.R.**, Batterham, P. and Daborn, P.J. *RNA interference of the Cytochrome P450 redox partners* Cpr *and* dare *uncovers novel P450 functions in* Drosophila melanogaster. The 50th Annual Drosophila Research Conference, 2009, Chicago, USA.
 
 ## Technical Experience
 
