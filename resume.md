@@ -127,7 +127,7 @@ Technical experience
 
 About me
 
-:	Outside work I have a wide range of interests including building and riding bicycles, social football and basketball, programming and technology.
+:	Outside work I have a wide range of interests including building and riding bicycles, social football and basketball, cooking, programming and technology.
 
 ----
 
