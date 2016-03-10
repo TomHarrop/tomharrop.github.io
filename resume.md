@@ -123,7 +123,7 @@ Technical experience
 
 :	Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have basic experience with `Perl`, `LaTeX`, `html` and `css`. I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding. I have used several different workload managers for cluster computing including `SGE` and and `LSF` and maintain an installation of `SLURM` on my personal workstation.
 
-:	I have extensive experience in molecular biology techniques such as quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as complex crossing experiments, microdissection and bioassays.
+:	I have extensive experience in molecular biology techniques such as quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
 
 About me
 
