@@ -1,74 +1,119 @@
 ---
-title: "Johnny Coder"
+title: "Thomas Harrop"
 ---
 
 ----
 
-> In this style, the resume starts with a blockquote, where you can briefly list your specialties, or include a salient quote. Ending a line with a backslash forces a line break.
+> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and an interest in basic and applied research relating to agriculture. I have advanced programming skills in `R`, `Python` and shell scripting. I have experience working in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
 
 ----
+
+## Personal information
+
+Date of birth
+
+:	25 December 1982
+
+Nationalities
+
+:	Australian and British
+
+Languagues
+
+:	English (native), German (TELC Level B2) and French (TELC Level B1)
 
 ## Education
 
-2010-2014 (expected)
+2006--2012
 
-:	**PhD, Computer Science**; Awesome University (MyTown)\
-	*Thesis title*: Deep Learning Approaches _to_ **the** Self-Awesomeness Estimation Problem
+:	**Doctor of Philosophy**, Department of Genetics, the University of Melbourne, Victoria, Australia.\
+	[*Thesis*](http://cat.lib.unimelb.edu.au/record=b4827945~S32): The functions of cytochrome P450s in Drosophila.\
+	During my Ph.D. I used classical genetics and modern molecular biology, including transgenic manipulation of gene expression and comparative studies of gene function, to investigate the functions of cytochrome P450 genes in the Drosophila genus. 
 
- 
-2007-2010
+2002--2005
 
-:   **BSc, Computer Science and Electrical Engineering**; University of HomeTown (HomeTown)\
-	*Minor: Awesomeology* 
+:   **Bachelor of Science with Honours (first class)**, the University of Melbourne, Victoria, Australia.
 
-## Experience
+## Research positions
 
-**Your Most Recent Work Experience:**
+2014--Present
 
-Short text containing the type of work done, results obtained, lessons learned and other remarks. Can also include lists and links: 
+:	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
+pour le Développement (IRD), Montpellier, France.\
+	In my current project I am working on the development of inflorescence architecture in rice, which is related to grain yield potential. We used a precise laser microdissection and RNA sequencing approach to characterise molecular events that occur during the transitions between meristem types in the developing inflorescence. We are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice. Working on this project allowed my to expand my skills in bioinformatic analysis and statistics and my knowledge of plant biology and agronomy.
 
-* First item
-* Item with [link](http://www.example.com). Links will work both in the html and pdf versions.
+2013--2014
 
-**That Other Job You Had**
+:	**Post-doctoral researcher**, Department of Plant Breeding and Genetics, Max Planck Institute for Plant Breeding Research, Cologne, Germany.\
+	During my stay at the Max Planck Insitute I worked on a short project to compare the transcriptional response of several different land plants to UV-B exposure, which acts as a developmental signal. This position provided my first hands-on experience with plant biology and allowed me to expand my programming and bioinformatic skills.
 
-Also with a short description.
+## Teaching experience
+
+2007--2011
+
+:	**3^rd^ Year Genetics**, Department of Genetics, The University of Melbourne, Victoria, Australia.
+
+2006--2009
+
+:	**High School Biology**, Department of Genetics, The University of Melbourne, Victoria, Australia.
+
+2006--2008
+
+:	**High School Biology**, Gene Technology Access Centre, The University High School, Victoria, Australia.
+
+2005--2008
+
+:	**1^st^ Year Genetics**, The University of Melbourne, Victoria, Australia.
+
+## Professional experience
+
+2004--2007
+
+:	**Medical scientist**, Network Pathology, the Austin Hospital, Victoria, Australia.
+
+2001--2004
+
+:	**Laboratory assistant**, Network Pathology, the Austin Hospital, Victoria, Australia.
+
+## Students co-supervised
+
+Swarit Jaisal
+
+:	**Master of Science**, Life Science Informatics, Universität Bonn, Germany.
+
+Axel Verdier
+
+:	**Master of Science**, Sciences et Technologies de l’Information et de la
+Communication pour la Santé, Université de Montpellier, France.
+
+## Publications {#references}
+
+**Harrop, T.W.R.**^§^, Ud Din, I.^§^, Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection*. The Plant Journal (accepted manuscript). [doi:10.1111/tpj.13147](http://dx.doi.org/10.1111/tpj.13147).
+
+**Harrop, T.W.R.**^§^, Pearce, S.L.^§^, Daborn, P.J. and Batterham, P. (2014). Whole-genome expression analysis in the third instar larval midgut of *Drosophila melanogaster*. G3 (Bethesda) 4, 2197--2205. [doi:10.1534/
+g3.114.013870](http://g3journal.org/cgi/doi/10.1534/g3.114.013870).
+
+**Harrop, T.W.R.**, Sztal, T., Lumb, C., Good, R.T., Daborn, P.J., Batterham, P. and Chung, H. (2014). Evolutionary changes in gene expression, coding sequence and copy-number at the *Cyp6g1* locus contribute to resistance to multiple insecticides in Drosophila. Plos One 9, e84879. [doi:10.1371/journal.pone.0084879](http://dx.plos.org/10.1371/journal.pone.0084879).
+
+Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S., Mitchell, S.N., Donnelly, M.J., Müller, P. and Batterham, P., (2012). Using *Drosophila melanogaster* to validate metabolism-based insecticide resistance from insect pests. Insect Biochemistry and Molecular Biology 42, 918--924. [doi:10.1016/j.ibmb.2012.09.003](http://linkinghub.elsevier.com/retrieve/pii/S0965174812001269).
+
+^§^ Equal contribution
+
+## Conference presentations
+
+SMBE Vienna
+
+:   probably make this ref style as well
+
+Fly conference
+
+:   as in, the whole subsection
 
 ## Technical Experience
 
-My Cool Side Project
-
-:   For items which don't have a clear time ordering, a definition list can be used to have named items.
-    
-    * These items can also contain lists, but you need to mind the indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-
-:   List open source contributions here, perhaps placing emphasis on the project names, for example the **Linux Kernel**, where you implemented multithreading over a long weekend, or **node.js** (with [link](http://nodejs.org)) which was actually totally your idea... 
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want to add descriptions to the first few items, but still want to mention some others together at the end. A format that works well here is a description list where the first few items have their first word emphasized, and the last item contains the final few emphasized terms. Notice the reasonably nice page break in the pdf version, which wouldn't happen if we generated the pdf via html.
-:   **second-lang:** Description of your experience with second-lang, perhaps again including a [link] [ref], this time placing the url reference elsewhere in the document to reduce clutter (see source file).
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-## Extra Section, Call it Whatever You Want
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Should I write about other skills here or leave it in the blockquote?
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> Contact: <twharrop@gmail.com> · [GitHub](https://github.com/tomharrop) · [stackoverflow](https://stackoverflow.com/users/3017012/tom-harrop)\
+> Castelnau-le-Lez, Hérault, FRANCE
