@@ -6,7 +6,8 @@ pdf/resume.pdf: resume.md
 	--from markdown --to context \
 	-V papersize=A4 \
 	-o resume.tex resume.md; \
-	context resume.tex --result=pdf/resume.pdf
+	src/label_reference_subsection.py resume.tex > pdf/resume.tex
+	context pdf/resume.tex --result=pdf/resume.pdf
 
 html: index.html
 index.html: style_chmduquesne.css resume.md
@@ -29,6 +30,7 @@ clean:
 	rm resume.tex
 	rm pdf/resume.tuc
 	rm pdf/resume.log
+	rm pdf/resume.tex
 	rm pdf/resume.pdf
 	rm resume.docx
 	rm resume.rtf

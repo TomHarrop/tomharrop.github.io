@@ -6,42 +6,31 @@
 % This CSS document is delivered to you under the CC BY-SA 3.0 License.
 % https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
-\startmode[*mkii]
-  \enableregime[utf-8]  
-  \setupcolors[state=start]
-\stopmode
 $if(mainlang)$
 \mainlanguage[$mainlang$]
 $endif$
 
 \setupcolor[hex]
 \definecolor[titlegrey][h=757575]
-%\definecolor[sectioncolor][h=397249]
 \definecolor[sectioncolor][h=2c3e50]
 \definecolor[rulecolor][h=9cb770]
 
 % Enable hyperlinks
 \setupinteraction[state=start, color=sectioncolor, style=\bf\underbar]
 
-\setuppapersize [$if(papersize)$$papersize$$else$letter$endif$][$if(papersize)$$papersize$$else$letter$endif$]
-\setuplayout    [width=middle, height=middle,
-                 backspace=20mm, cutspace=0mm,
+\setuppapersize [$if(papersize)$$papersize$$else$A4$endif$][$if(papersize)$$papersize$$else$A4$endif$]
+\setuplayout    [width=fit, height=middle,
+                 leftmargin=20mm, rightmargin=20mm,
                  topspace=30mm, bottomspace=30mm,
                  header=0mm, footer=0mm]
-
-%\setuppagenumbering[location={footer,center}]
 
 \setupbodyfont[11pt, lato]
 
 \setupwhitespace[medium]
 
-%\setupblackrules[width=31mm, color=rulecolor]
-
 \setuphead[chapter]      [style=\tfd]
 \setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
 \setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right]
-%\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
-%                          before={\leavevmode\blackrule\hspace}]
 \setuphead[subsubsection][style=\bf]
 
 $if(number-sections)$
@@ -49,22 +38,32 @@ $else$
 \setuphead[chapter, section, subsection, subsubsection][number=no]
 $endif$
 
-%\setupdescriptions[width=10mm]
-
 \definedescription
   [description]
   [headstyle=bold, style=normal,
    location=hanging, width=18mm, distance=14mm, margin=0cm]
 
-\setupitemize[autointro, packed]    % prevent orphan list intro
+% prevent orphan list intro
+\setupitemize[autointro, packed]
 \setupitemize[indentnext=no]
+
+% negative indent for reference section
+\definestartstop [negindent] [
+  before={%
+    \startnarrower[left]%
+    \setupindenting[-\leftskip,yes,first]%
+    \setuphead[subsection][indentnext=yes]%
+  },
+  after=\stopnarrower,
+]
 
 \setupfloat[figure][default={here,nonumber}]
 \setupfloat[table][default={here,nonumber}]
 
 \setuptables[textwidth=max, HL=none]
 
-\setupthinrules[width=15em] % width of horizontal rules
+% width of horizontal rules
+\setupthinrules[width=15em]
 
 \setupdelimitedtext
   [blockquote]
@@ -83,10 +82,12 @@ $endfor$
 \starttext
 $if(title)$
 \section[title]{$title$}
+
 $if(author)$
   \blank[3*medium]
   {\tfa $for(author)$$author$$sep$\crlf $endfor$}
 $endif$
+
 $if(date)$
   \blank[2*medium]
   {\tfa $date$}
@@ -94,9 +95,11 @@ $endif$
   \blank[3*medium]
 \stopalignment
 $endif$
+
 $for(include-before)$
 $include-before$
 $endfor$
+
 $if(toc)$
 \placecontent
 $endif$
