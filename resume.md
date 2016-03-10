@@ -88,7 +88,7 @@ Communication pour la Santé, Université de Montpellier, France.
 
 ## Publications {#references}
 
-**Harrop, T.W.R.**^§^, Ud Din, I.^§^, Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection*. The Plant Journal (accepted manuscript). [doi:10.1111/tpj.13147](http://dx.doi.org/10.1111/tpj.13147).
+**Harrop, T.W.R.**^§^, Ud Din, I.^§^, Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection. The Plant Journal (accepted manuscript). [doi:10.1111/tpj.13147](http://dx.doi.org/10.1111/tpj.13147).
 
 **Harrop, T.W.R.**^§^, Pearce, S.L.^§^, Daborn, P.J. and Batterham, P. (2014). Whole-genome expression analysis in the third instar larval midgut of *Drosophila melanogaster*. G3 (Bethesda) 4, 2197--2205. [doi:10.1534/
 g3.114.013870](http://g3journal.org/cgi/doi/10.1534/g3.114.013870).
@@ -99,15 +99,11 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ^§^ Equal contribution
 
-## Conference presentations
+## Conference presentations {#references}
 
-SMBE Vienna
+**SMBE Vienna**. Probably make this ref style as well. Need a big ole line of text to check indenting. Maybe even more that this.
 
-:   probably make this ref style as well
-
-Fly conference
-
-:   as in, the whole subsection
+**Fly conference**. As in, the whole subsection.
 
 ## Technical Experience
 
@@ -115,5 +111,5 @@ Should I write about other skills here or leave it in the blockquote?
 
 ----
 
-> Contact: <twharrop@gmail.com> · [GitHub](https://github.com/tomharrop) · [stackoverflow](https://stackoverflow.com/users/3017012/tom-harrop)\
+> <twharrop@gmail.com> · [GitHub](https://github.com/tomharrop) · [stackoverflow](https://stackoverflow.com/users/3017012/tom-harrop)\
 > Castelnau-le-Lez, Hérault, FRANCE
