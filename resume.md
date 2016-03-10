@@ -117,7 +117,7 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 Research interests
 
-:	Plant and insect research related to **agronomy**, **bioinformatic** tools and techniques and **Evolutionary and comparative biology**.
+:	Plant and insect research related to **agronomy**, tools and techniques in **bioinformatics** and **evolutionary and comparative biology**.
 
 Technical experience
 
