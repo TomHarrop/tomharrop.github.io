@@ -36,8 +36,6 @@ Languagues
 
 ## Experience
 
-### Research positions
-
 2014--Present
 
 :	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
