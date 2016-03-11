@@ -34,7 +34,9 @@ Languagues
 
 :   **Bachelor of Science with Honours (first class)**, the University of Melbourne, Parkville, Australia.
 
-## Research positions
+## Experience
+
+### Research positions
 
 2014--Present
 
@@ -45,9 +47,9 @@ pour le Développement (IRD), Montpellier, France.\
 2013--2014
 
 :	**Post-doctoral researcher**, Department of Plant Breeding and Genetics, Max Planck Institute for Plant Breeding Research, Cologne, Germany.\
-	During my stay at the Max Planck Insitute I worked on a short project to compare the transcriptional response of several different land plants to UV-B exposure, which acts as a developmental signal. This position provided my first hands-on experience with plant biology and a foundation to apply my programming and bioinformatic skills.
+	At the Max Planck Insitute I worked on a project to compare the transcriptional response of several different land plants to UV-B exposure, which acts as an environmental signal. This position provided hands-on experience with plant biology and a foundation to apply my programming and bioinformatic skills.
 
-## Professional experience
+### Professional positions
 
 2004--2007
 
@@ -57,7 +59,7 @@ pour le Développement (IRD), Montpellier, France.\
 
 :	**Laboratory assistant**, Network Pathology, the Austin Hospital, Heidelberg, Australia.
 
-## Teaching experience
+### Teaching
 
 2007--2011
 
@@ -75,7 +77,7 @@ pour le Développement (IRD), Montpellier, France.\
 
 :	**1^st^ Year Genetics**, The University of Melbourne, Parkville, Australia.
 
-## Students co-supervised
+### Students co-supervised
 
 Swarit Jaisal
 
@@ -88,6 +90,8 @@ Communication pour la Santé, Université de Montpellier, France.
 
 ## Publications {#references}
 
+### Peer-reviewed journals
+
 **Harrop, T.W.R.**^§^, Ud Din, I.^§^, Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection. The Plant Journal (accepted manuscript). [doi:10.1111/tpj.13147](http://dx.doi.org/10.1111/tpj.13147).
 
 **Harrop, T.W.R.**^§^, Pearce, S.L.^§^, Daborn, P.J. and Batterham, P. (2014). Whole-genome expression analysis in the third instar larval midgut of *Drosophila melanogaster*. G3 (Bethesda) 4, 2197--2205. [doi:10.1534/
@@ -99,19 +103,13 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ^§^ Equal contribution
 
-## Selected conference presentations {#references}
+### Selected conference presentations
 
 **Harrop, T.W.R.**, Gregis, V., Ud Din, I., Kater, M., Jouannic, S. and Adam, H. *Molecular mechanisms underlying the phenotypic convergence of inflorescence architecture in domesticated rice species.* Society for Molecular Biology and Evolution annual meeting, 2015, Vienna, Austria
 
 **Harrop, T.W.R.**, Ud Din, I., Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. *Transcriptomic analysis of early developmental stages of the rice panicle.* Workshop in Molecular Mechanisms Controlling Flowering, 2015, Aiguablava, Spain.
 
 **Harrop, T.W.R.**, Batterham, P. and Daborn, P.J. *RNA interference of the Cytochrome P450 redox partners* Cpr *and* dare *uncovers novel P450 functions in* Drosophila melanogaster. The 50th Annual Drosophila Research Conference, 2009, Chicago, USA.
-
-## Awards
-
-2006--2009
-
-:	Australian Postgraduate Award
 
 ## Other information
 
@@ -121,13 +119,17 @@ Research interests
 
 Technical experience
 
-:	Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have basic experience with `Perl`, `LaTeX`, `html` and `css`. I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding. I have used several different workload managers for cluster computing including `SGE` and and `LSF` and maintain an installation of `SLURM` on my personal workstation.
+:	Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have experience with `Perl`, `LaTeX`, `html` and `css`. I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding. I have used several different workload managers for cluster computing including `SGE` and and `LSF`, and I maintain an installation of `SLURM` on my personal workstation.
 
-:	I have extensive experience in molecular biology techniques such as quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
+:	I have experience in molecular biology techniques such as quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
 
 About me
 
-:	Outside work I have a wide range of interests including building and riding bicycles, social football and basketball, cooking, programming and technology.
+:	Outside work I have a range of interests including building and riding bicycles, social football and basketball, cooking, programming and technology.
+
+Awards
+
+:	**2006--2009**, Australian Postgraduate Award
 
 ----
 
