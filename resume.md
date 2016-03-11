@@ -92,8 +92,7 @@ Communication pour la Santé, Université de Montpellier, France.
 
 **Harrop, T.W.R.**^§^, Ud Din, I.^§^, Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection. The Plant Journal (accepted manuscript). [doi:10.1111/tpj.13147](http://dx.doi.org/10.1111/tpj.13147).
 
-**Harrop, T.W.R.**^§^, Pearce, S.L.^§^, Daborn, P.J. and Batterham, P. (2014). Whole-genome expression analysis in the third instar larval midgut of *Drosophila melanogaster*. G3 (Bethesda) 4, 2197--2205. [doi:10.1534/
-g3.114.013870](http://g3journal.org/cgi/doi/10.1534/g3.114.013870).
+**Harrop, T.W.R.**^§^, Pearce, S.L.^§^, Daborn, P.J. and Batterham, P. (2014). Whole-genome expression analysis in the third instar larval midgut of *Drosophila melanogaster*. G3 (Bethesda) 4, 2197--2205. [doi:10.1534/g3.114.013870](http://g3journal.org/cgi/doi/10.1534/g3.114.013870).
 
 **Harrop, T.W.R.**, Sztal, T., Lumb, C., Good, R.T., Daborn, P.J., Batterham, P. and Chung, H. (2014). Evolutionary changes in gene expression, coding sequence and copy-number at the *Cyp6g1* locus contribute to resistance to multiple insecticides in Drosophila. Plos One 9, e84879. [doi:10.1371/journal.pone.0084879](http://dx.plos.org/10.1371/journal.pone.0084879).
 
