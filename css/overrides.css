@@ -9,10 +9,25 @@
  */
 
 
- /* Definitions */
+
 dt {
 }
 
+/* Title of the resume */
+h1 {
+    text-align:center;
+}
+
+/* Fine tune section heads */
+
+h3 {
+    margin-top: 24px;
+}
+h2 + h3 {
+    margin-top: 17px;
+}
+
+/* Definitions */
 dt {
     float: left;
     clear: left;
@@ -26,10 +41,19 @@ ul {
 	padding-left: 40px;
 }
 
-/* Title of the resume */
-h1 {
-    text-align:center;
+/* Blockquotes */
+blockquote {
+    text-align: center;
+    border: none;
 }
+
+/* References */
+h2#references ~ p {
+  text-indent: -40px;
+  padding-left:40px;
+}
+
+/* PDF button */
 .pdfdownload a {
     position: absolute;
     top: -65px;
@@ -39,17 +63,10 @@ h1 {
       position: relative;
 }
 
-h2#references ~ p {
-  text-indent: -40px;
-  padding-left:40px;
-}
 
-/* Blockquotes */
-blockquote {
-    text-align: center;
-    border: none;
-}
 
+
+/* Mobile layout */
 @media (max-width: 600px) {
     dt {
     	float: none;
