@@ -18,7 +18,7 @@ Nationalities
 
 :	Australian and British
 
-Languagues
+Languages
 
 :	English (native), German (TELC Level B2) and French (TELC Level B1)
 
