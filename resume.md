@@ -90,7 +90,7 @@ Communication pour la Santé, Université de Montpellier, France.
 
 ### Peer-reviewed journals
 
-**Harrop, T.W.R.**^§^, Ud Din, I.^§^, Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection. The Plant Journal (accepted manuscript). [doi:10.1111/tpj.13147](http://dx.doi.org/10.1111/tpj.13147).
+**Harrop, T.W.R.**^§^, Ud Din, I.^§^, Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection. The Plant Journal 86, 75--88. [doi:10.1111/tpj.13147](http://dx.doi.org/10.1111/tpj.13147).
 
 **Harrop, T.W.R.**^§^, Pearce, S.L.^§^, Daborn, P.J. and Batterham, P. (2014). Whole-genome expression analysis in the third instar larval midgut of *Drosophila melanogaster*. G3 (Bethesda) 4, 2197--2205. [doi:10.1534/g3.114.013870](http://g3journal.org/cgi/doi/10.1534/g3.114.013870).
 
