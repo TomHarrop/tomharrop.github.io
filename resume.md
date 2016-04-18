@@ -100,7 +100,9 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ^§^ Equal contribution
 
-### Selected conference presentations
+### Selected scientific presentations
+
+**Harrop, T.W.R.** Gene expression during *O. sativa* panicle development. Invited seminar, 19 November 2015, LMI RICE, Hanoi, Vietnam.
 
 **Harrop, T.W.R.**, Gregis, V., Ud Din, I., Kater, M., Jouannic, S. and Adam, H. *Molecular mechanisms underlying the phenotypic convergence of inflorescence architecture in domesticated rice species.* Society for Molecular Biology and Evolution annual meeting, 2015, Vienna, Austria
 
