@@ -4,15 +4,11 @@ title: "Thomas Harrop"
 
 ----
 
-> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and an interest in basic and applied research relating to agriculture. I have advanced programming skills in `R`, `Python` and shell scripting. I am experienced working in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
+> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and an interest in basic and applied research relating to agriculture and data science. I have advanced programming skills in `R`, `Python` and shell scripting. I am experienced working in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
 
 ----
 
 ## Personal information
-
-Date of birth
-
-:	25 December 1982
 
 Nationalities
 
@@ -40,7 +36,7 @@ Languages
 
 :	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
 pour le Développement (IRD), Montpellier, France.\
-	In my current project I am working on the development of inflorescence architecture in rice, which is related to grain yield potential. We used a precise laser microdissection and RNA sequencing approach to characterise molecular events that occur during the transitions between meristem types in the developing inflorescence. We are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice. Whilst working on this project I have expanded my skills in bioinformatic analysis and statistics and gained a knowledge of plant biology and agronomy.
+	In my current project I am working on the development of inflorescence architecture in rice, which is related to grain yield potential. We used a laser microdissection and RNA sequencing approach to characterise molecular events that occur during the transitions between meristem types in the developing inflorescence. We are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice. Whilst working on this project I have expanded my skills in bioinformatic analysis and statistics and gained a knowledge of plant biology and agronomy.
 
 2013--2014
 
@@ -112,11 +108,11 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ## Other information
 
-Research interests
+Research
 
-:	Plant and insect research related to **agronomy**, tools and techniques in **bioinformatics** and **evolutionary and comparative biology**.
+:	My interests include plant and insect research related to agronomy, tools and techniques in bioinformatics and evolutionary and comparative biology.
 
-Technical experience
+Technical
 
 :	Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have experience with `Perl`, `LaTeX`, `html` and `css`. I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding. I have used several different workload managers for cluster computing including `SGE` and and `LSF`, and I maintain an installation of `SLURM` on my personal workstation.
 
@@ -124,7 +120,7 @@ Technical experience
 
 About me
 
-:	Outside work I have a range of interests including building and riding bicycles, social football and basketball, cooking, programming and technology.
+:	Outside work I enjoy building and riding bicycles, social football and basketball, cooking, programming and technology.
 
 Awards
 

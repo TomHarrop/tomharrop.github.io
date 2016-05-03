@@ -7,7 +7,6 @@
 \setupalign[flushleft, nothyphenated, hanging]
 \setupwhitespace[medium]
 
-
 % Type
 \setupbodyfont[11pt, lato]
 \setuplanguage[en][spacing=packed]
@@ -26,23 +25,23 @@
 \setuphead[chapter]
   [style=\tfd]
 \setuphead[section]
-  [style=\tfd\bf, color=sectioncolor, align=middle]
+  [style=\tfb\bf, color=sectioncolor, align=middle]
 \setuphead[subsection]
-  [style=\tfb\bf, color=sectioncolor, align=right]
+  [style=\tfa\bf, color=sectioncolor, align=flushleft]
 \setuphead[subsubsection]
-  [style=\bf]
+  [style=\bf, color=sectioncolor, align=flushleft]
 
-\setuphead[chapter, section, subsection, subsubsection][number=no]
+\setuphead[chapter, section, subsection, subsubsection]
+  [number=no, before={\blank[big]}, after={\blank[small]}]
 
 % Descriptions
 \definedescription[description]
-  [alternative=left, width=fit,
+  [alternative=left, width=6em,
    headstyle=bold, style=normal,
    headalign=flushright,
-   before={\setupnarrower[right=6em]%
+   before={\setupnarrower[right=4em]%
            \startnarrower[right]},
-   after={\stopnarrower},
-   sample="Technical experience"]
+   after={\stopnarrower}]
 
 % negative indent for reference section
 \definestartstop[negindent]

@@ -2,7 +2,8 @@
 *.log
 *.pdf
 *.html
-resume.tex
+pdf/resume_mod.tex
+pdf/resume.tex
 *.swo
 *.swp
 *.docx
