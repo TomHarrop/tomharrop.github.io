@@ -4,7 +4,7 @@ title: "Thomas Harrop"
 
 ----
 
-> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and an interest in basic and applied research relating to agriculture and data science. I have advanced programming skills in `R`, `Python` and shell scripting. I am experienced working in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
+> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I have advanced programming skills in `R`, `Python` and shell scripting. I am experienced working in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
 
 ----
 
