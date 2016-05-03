@@ -1,0 +1,75 @@
+% Layout
+\setuppapersize[A4]
+\setuplayout[width=fit, height=middle,
+             leftmargin=20mm, rightmargin=20mm,
+             topspace=30mm, bottomspace=30mm,
+             header=0mm, footer=0mm]
+\setupalign[flushleft, nothyphenated, hanging]
+\setupwhitespace[medium]
+
+
+% Type
+\setupbodyfont[11pt, lato]
+\setuplanguage[en][spacing=packed]
+\mainlanguage[en]
+\setbreakpoints[compound]
+
+% Colour
+\setupcolor[hex]
+\definecolor[sectioncolor]
+  [h=2c3e50]
+
+% Hyperlinks
+\setupinteraction[state=start, color=sectioncolor, style=\bf\underbar]
+
+% Headings
+\setuphead[chapter]
+  [style=\tfd]
+\setuphead[section]
+  [style=\tfd\bf, color=sectioncolor, align=middle]
+\setuphead[subsection]
+  [style=\tfb\bf, color=sectioncolor, align=right]
+\setuphead[subsubsection]
+  [style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+% Descriptions
+\definedescription[description]
+  [alternative=left, width=fit,
+   headstyle=bold, style=normal,
+   headalign=flushright,
+   before={\setupnarrower[right=6em]%
+           \startnarrower[right]},
+   after={\stopnarrower},
+   sample="Technical experience"]
+
+% negative indent for reference section
+\definestartstop[negindent]
+  [before={\startnarrower[left]%
+           \setupindenting[-\leftskip,yes,first]%
+           \setuphead[subsection][indentnext=yes]},
+   after=\stopnarrower]
+
+% width of horizontal rules
+\define\thinrule{%
+  \startalignment[center]%
+  \midaligned{%
+  \blackrule[width=150mm, height=.5\linewidth, depth=.5\linewidth]}%
+  \stopalignment
+  }
+
+% centre blockquotes
+\setupdelimitedtext[blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no]
+
+\starttext
+
+$if(title)$
+\section[title]{$title$}
+$endif$
+
+$body$
+
+\stoptext
