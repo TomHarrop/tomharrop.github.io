@@ -8,9 +8,19 @@
 \setupwhitespace[medium]
 
 % Type
-\setupbodyfont[11pt, lato]
+\usetypescript[lato]
+\setupbodyfont[lato, 11pt]
+\definefont[ms][Mono sa 0.9]
+% \defineframed
+%   [dohotkey]
+%   [frameoffset=-0.2em,location=low, backgroundoffset=-0.2em,
+%    background=color, backgroundcolor=gray, frame=off]
+% \definehspace[hotkey][0.2em]
+% \def\hotkey#1{\dohotkey{\hspace[hotkey]#1\hspace[hotkey]}}
+% \setuptype[style=\ms, command=\hotkey]
+\setuptype[style=\ms]
 \setuplanguage[en][spacing=packed]
-\mainlanguage[en]
+\language[en]
 \setbreakpoints[compound]
 
 % Colour
