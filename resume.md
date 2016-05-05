@@ -13,18 +13,18 @@ title: "Thomas Harrop"
 Nationalities
 :   Australian and British
 
-Languages
-:   English (native), German (TELC Level B2) and French (TELC Level B1)
-
 Research
 :   My research interests include plant and insect research related to agronomy, tools and techniques in bioinformatics and evolutionary and comparative biology.
 
 Technical
-:   The personal workstations and servers that I build and use run MacOS, Ubuntu and FreeBSD. I have experience with cluster environments based on Debian and CentOS.  
 :   Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have experience with `TeX`, `html` and `css`.
 :   I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding.  
-:   I have used several different workload managers for high-performance computing including `SGE` and and `LSF` and maintain an installation of `SLURM` on my workstation.  
+:   I have used several different workload managers for high-performance computing (HPC) including `SGE` and and `LSF` and maintain an installation of `SLURM` on my workstation.  
+:   The workstations and servers that I build and use run MacOS, Ubuntu and FreeBSD. I have experience with HPC environments running Debian and CentOS.  
 :   I have experience in molecular biology techniques such as quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
+
+Languages
+:   English (native), German (TELC Level B2) and French (TELC Level B1)
 
 About me
 :   Outside work I enjoy building and riding bicycles, social football and basketball, cooking, programming and technology.
@@ -47,7 +47,7 @@ Awards
 2014--Present
 :	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
 pour le Développement (IRD), Montpellier, France.  
-	My current project uses bioinformatic techniques including transcriptomics, machine learning, data mining and statistical approaches to study the development of inflorescence architecture in rice, which is related to crop yield. We used laser microdissection and RNA sequencing to characterise molecular events that occur in the developing inflorescence. We are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice.
+	I am using machine learning, data mining, statistical analyses and other bioinformatic techniques to study the development of inflorescence architecture in rice, which is related to crop yield. We used laser microdissection and RNA sequencing to characterise molecular events that occur in the developing inflorescence. We are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice.
 
 2013--2014
 :	**Post-doctoral researcher**, Department of Plant Breeding and Genetics, Max Planck Institute for Plant Breeding Research, Cologne, Germany.  
