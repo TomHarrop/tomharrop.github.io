@@ -11,74 +11,76 @@ title: "Thomas Harrop"
 ## Personal information
 
 Nationalities
-
-:	Australian and British
+:   Australian and British
 
 Languages
+:   English (native), German (TELC Level B2) and French (TELC Level B1)
 
-:	English (native), German (TELC Level B2) and French (TELC Level B1)
+Research
+:   My research interests include plant and insect research related to agronomy, tools and techniques in bioinformatics and evolutionary and comparative biology.
+
+Technical
+:   The personal workstations and servers that I build and use run MacOS, Ubuntu and FreeBSD. I have experience with cluster environments based on Debian and CentOS. 
+:   Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have experience with `TeX`, `html` and `css`.
+:   I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding.
+:   I have used several different workload managers for high-performance computing including `SGE` and and `LSF` and maintain an installation of `SLURM` on my workstation.
+:   I have experience in molecular biology techniques such as quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
+
+About me
+:   Outside work I enjoy building and riding bicycles, social football and basketball, cooking, programming and technology.
 
 ## Education
 
 2006--2012
-
-:	**Doctor of Philosophy**, Department of Genetics, the University of Melbourne, Parkville, Australia.\
-	Thesis: [*The functions of cytochrome P450s in Drosophila*.](http://cat.lib.unimelb.edu.au/record=b4827945~S32)\
+:	**Doctor of Philosophy**, Department of Genetics, the University of Melbourne, Parkville, Australia.  
+	Thesis: [*The functions of cytochrome P450s in Drosophila*.](http://cat.lib.unimelb.edu.au/record=b4827945~S32)  
 	During my Ph.D. I used classical genetics and modern molecular biology, including transgenic manipulation of gene expression and comparative studies of gene function, to investigate the functions of cytochrome P450 genes in the Drosophila genus. 
 
 2002--2005
-
 :   **Bachelor of Science with Honours (first class)**, the University of Melbourne, Parkville, Australia.
+
+Awards
+:   **2006--2009**, Australian Postgraduate Award
 
 ## Experience
 
 2014--Present
-
 :	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
-pour le Développement (IRD), Montpellier, France.\
-	In my current project I am working on the development of inflorescence architecture in rice, which is related to grain yield potential. We used a laser microdissection and RNA sequencing approach to characterise molecular events that occur during the transitions between meristem types in the developing inflorescence. We are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice. Whilst working on this project I have expanded my skills in bioinformatic analysis and statistics and gained a knowledge of plant biology and agronomy.
+pour le Développement (IRD), Montpellier, France.  
+	My current project uses bioinformatic techniques including transcriptomics, machine learning, data mining and statistical approaches to study the development of inflorescence architecture in rice, which is related to crop yield. We used laser microdissection and RNA sequencing to characterise molecular events that occur in the developing inflorescence. We are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice.
 
 2013--2014
-
-:	**Post-doctoral researcher**, Department of Plant Breeding and Genetics, Max Planck Institute for Plant Breeding Research, Cologne, Germany.\
-	At the Max Planck Insitute I worked on a project to compare the transcriptional response of several different land plants to UV-B exposure, which acts as an environmental signal. This position provided hands-on experience with plant biology and a foundation to apply my programming and bioinformatic skills.
+:	**Post-doctoral researcher**, Department of Plant Breeding and Genetics, Max Planck Institute for Plant Breeding Research, Cologne, Germany.  
+	At the Max Planck Insitute I worked on a bioinformatic and molecular biology project to compare the transcriptional response of several different land plants to UV-B exposure, which acts as an environmental signal.
 
 ### Professional positions
 
 2004--2007
-
 :	**Medical scientist**, Network Pathology, the Austin Hospital, Heidelberg, Australia.
 
 2001--2004
-
 :	**Laboratory assistant**, Network Pathology, the Austin Hospital, Heidelberg, Australia.
 
 ### Teaching
 
 2007--2011
-
 :	**3^rd^ Year Genetics**, Department of Genetics, The University of Melbourne, Parkville, Australia.
 
 2006--2009
-
 :	**High School Biology**, Department of Genetics, The University of Melbourne, Parkville, Australia.
 
 2006--2008
-
 :	**High School Biology**, Gene Technology Access Centre, The University High School, Parkville, Australia.
 
 2005--2008
-
 :	**1^st^ Year Genetics**, The University of Melbourne, Parkville, Australia.
 
 ### Students co-supervised
 
 Swarit Jaisal
-
 :	**Master of Science**, Life Science Informatics, Universität Bonn, Germany.
 
 Axel Verdier
-
 :	**Master of Science**, Sciences et Technologies de l’Information et de la
 Communication pour la Santé, Université de Montpellier, France.
 
@@ -105,26 +107,6 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 **Harrop, T.W.R.**, Ud Din, I., Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. *Transcriptomic analysis of early developmental stages of the rice panicle.* Workshop in Molecular Mechanisms Controlling Flowering, 2015, Aiguablava, Spain.
 
 **Harrop, T.W.R.**, Batterham, P. and Daborn, P.J. *RNA interference of the Cytochrome P450 redox partners* Cpr *and* dare *uncovers novel P450 functions in* Drosophila melanogaster. The 50th Annual Drosophila Research Conference, 2009, Chicago, USA.
-
-## Other information
-
-Research
-
-:	My interests include plant and insect research related to agronomy, tools and techniques in bioinformatics and evolutionary and comparative biology.
-
-Technical
-
-:	Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have experience with `Perl`, `LaTeX`, `html` and `css`. I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding. I have used several different workload managers for cluster computing including `SGE` and and `LSF`, and I maintain an installation of `SLURM` on my personal workstation.
-
-:	I have experience in molecular biology techniques such as quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
-
-About me
-
-:	Outside work I enjoy building and riding bicycles, social football and basketball, cooking, programming and technology.
-
-Awards
-
-:	**2006--2009**, Australian Postgraduate Award
 
 ----
 
