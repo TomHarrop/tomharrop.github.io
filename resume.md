@@ -20,10 +20,10 @@ Research
 :   My research interests include plant and insect research related to agronomy, tools and techniques in bioinformatics and evolutionary and comparative biology.
 
 Technical
-:   The personal workstations and servers that I build and use run MacOS, Ubuntu and FreeBSD. I have experience with cluster environments based on Debian and CentOS. 
+:   The personal workstations and servers that I build and use run MacOS, Ubuntu and FreeBSD. I have experience with cluster environments based on Debian and CentOS.  
 :   Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have experience with `TeX`, `html` and `css`.
-:   I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding.
-:   I have used several different workload managers for high-performance computing including `SGE` and and `LSF` and maintain an installation of `SLURM` on my workstation.
+:   I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding.  
+:   I have used several different workload managers for high-performance computing including `SGE` and and `LSF` and maintain an installation of `SLURM` on my workstation.  
 :   I have experience in molecular biology techniques such as quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
 
 About me
