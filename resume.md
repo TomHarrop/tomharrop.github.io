@@ -4,7 +4,7 @@ title: "Thomas Harrop"
 
 ----
 
-> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I have advanced programming skills in `R`, `Python` and shell scripting. I am experienced working in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
+> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I mainly work in `R`, `Python` and shell scripting. I have experience in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
 
 ----
 
@@ -19,9 +19,9 @@ Research
 Technical
 :   Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have experience with `TeX`, `html` and `css`.
 :   I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding.  
-:   I have used several different workload managers for high-performance computing (HPC) including `SGE` and and `LSF` and maintain an installation of `SLURM` on my workstation.  
-:   The workstations and servers that I build and use run MacOS, Ubuntu and FreeBSD. I have experience with HPC environments running Debian and CentOS.  
-:   I have experience in molecular biology techniques such as quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
+:   I have used several different workload managers for high-performance computing (HPC) including `SGE` and and `LSF` and maintain an installation of `SLURM` on my own workstation.  
+:   I have built and used workstations and servers that run MacOS, Ubuntu and FreeBSD, and run jobs in HPC environments running Debian and CentOS.  
+:   I have skills in molecular biology techniques including quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
 
 Languages
 :   English (native), German (TELC Level B2) and French (TELC Level B1)
