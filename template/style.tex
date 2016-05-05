@@ -7,6 +7,11 @@
 \setupalign[flushleft, nothyphenated, hanging]
 \setupwhitespace[medium]
 
+% PDF title
+$if(title)$
+\setupinteraction[state=start, title=$title$]
+$endif$
+
 % Type
 \usetypescript[lato]
 \setupbodyfont[lato, 11pt]
