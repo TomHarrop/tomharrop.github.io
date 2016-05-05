@@ -6,6 +6,7 @@
              header=0mm, footer=0mm]
 \setupalign[flushleft, nothyphenated, hanging]
 \setupwhitespace[medium]
+\setupindenting[no]
 
 % PDF title
 $if(title)$
@@ -35,6 +36,10 @@ $endif$
 
 % Hyperlinks
 \setupinteraction[state=start, color=sectioncolor, style=\bf\underbar]
+\useURL[li] [https://linkedin.com/in/tom-harrop-41893011a]
+\useURL[gh] [https://github.com/tomharrop]
+\useURL[so] [https://stackoverflow.com/users/3017012/tom-harrop]
+\useURL[em] [mailto:twharrop@gmail.com]
 
 % Headings
 \setuphead[chapter]
@@ -47,7 +52,8 @@ $endif$
   [style=\bf, color=sectioncolor, align=flushleft]
 
 \setuphead[chapter, section, subsection, subsubsection]
-  [number=no, before={\blank[big]}, after={\blank[small]}]
+  [number=no, before={\blank[big]}, after={\blank[small]},
+   indentnext=no]
 
 % Descriptions
 \definedescription[description]
@@ -63,7 +69,7 @@ $endif$
   [before={\startnarrower[left]%
            \setupindenting[-\leftskip,yes,first]%
            \setuphead[subsection][indentnext=yes]},
-   after=\stopnarrower]
+   after={\stopnarrower}]
 
 % width of horizontal rules
 \define\thinrule{%
@@ -85,5 +91,29 @@ $if(title)$
 $endif$
 
 $body$
+
+\startblockquote
+
+{\setupframed[frame=off,offset=none,align=middle,location=middle]
+
+\useURL[em2][mailto:twharrop@gmail.com][][twharrop@gmail.com]\from[em2] · \useURL[ws][http://tomharrop.io][][tomharrop.io]\from[ws]
+
+\blank[small]
+
+\dontleavehmode%
+\gotobox{\framed{%
+  \externalfigure[img/GitHub-Mark][height=4ex]}}[url(gh)]%
+\hskip1.5em%
+\gotobox{\framed{%
+  \externalfigure[img/In-2C-CMYK-2in-TM][height=4ex]}}[url(li)]%
+\hskip1.5em%
+\gotobox{\framed{%
+  \externalfigure[img/so-icon][height=4ex]}}[url(so)]
+
+\blank[small]
+
+Castelnau-le-Lez, Hérault, FRANCE}
+
+\stopblockquote
 
 \stoptext

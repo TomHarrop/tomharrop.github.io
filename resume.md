@@ -44,6 +44,8 @@ Awards
 
 ## Experience
 
+### Research positions
+
 2014--Present
 :	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
 pour le Développement (IRD), Montpellier, France.  
@@ -109,6 +111,3 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 **Harrop, T.W.R.**, Batterham, P. and Daborn, P.J. *RNA interference of the Cytochrome P450 redox partners* Cpr *and* dare *uncovers novel P450 functions in* Drosophila melanogaster. The 50th Annual Drosophila Research Conference, 2009, Chicago, USA.
 
 ----
-
-> <twharrop@gmail.com> · [GitHub](https://github.com/tomharrop) · [stackoverflow](https://stackoverflow.com/users/3017012/tom-harrop)\
-> Castelnau-le-Lez, Hérault, FRANCE
