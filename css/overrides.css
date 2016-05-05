@@ -47,6 +47,11 @@ blockquote {
     border: none;
 }
 
+/* Social buttons */
+blockquote img {
+    margin: 10px;
+}
+
 /* References */
 h2#references ~ p {
   text-indent: -40px;
