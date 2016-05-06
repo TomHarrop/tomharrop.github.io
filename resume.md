@@ -4,7 +4,7 @@ title: "Thomas Harrop"
 
 ----
 
-> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I mainly work in `R`, `Python` and shell scripting. I have experience in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
+> I am a senior post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I mainly work with `R`, `Python` and shell scripts. I have experience in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
 
 ----
 
@@ -53,7 +53,7 @@ pour le Développement (IRD), Montpellier, France.
 
 2013--2014
 :	**Post-doctoral researcher**, Department of Plant Breeding and Genetics, Max Planck Institute for Plant Breeding Research, Cologne, Germany.  
-	At the Max Planck Insitute I worked on a bioinformatic and molecular biology project to compare the transcriptional response of several different land plants to UV-B exposure, which acts as an environmental signal.
+	At the Max Planck Institute I worked on a bioinformatic and molecular biology project to compare the transcriptional response of several different land plants to UV-B exposure, which acts as an environmental signal.
 
 ### Professional positions
 
