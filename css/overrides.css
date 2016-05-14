@@ -103,7 +103,7 @@ i.th-logo:hover {
 }
 
 /* Mobile layout */
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .navbar-fixed-bottom {
     display: none;
   }
