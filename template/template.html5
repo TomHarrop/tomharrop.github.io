@@ -5,33 +5,104 @@
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>$pagetitle$</title>
-  <style type="text/css">code{white-space: pre;}</style>
-$for(css)$
-  <link rel="stylesheet" href="$css$">
-$endfor$
+  <title>Thomas Harrop</title>
+  <style type="text/css">
+    code { white-space: pre; }
+  </style>
+  <link rel="stylesheet" href="css/flatly.css">
+  <link rel="stylesheet" href="css/overrides.css">
+  <script src="https://use.fontawesome.com/cbb6634981.js"></script>
+  <!-- the webfontloader.js script and fontaweseome css are only needed for local development -->
+  <script src="https://use.fontawesome.com/webfontloader/1.6.24/webfontloader.js"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/cbb6634981.css">
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-45860351-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-45860351-2', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  
+  <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="img/favicon/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="img/favicon/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="img/favicon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="img/favicon/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="img/favicon/manifest.json">
+  <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="img/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="img/favicon/mstile-144x144.png">
+  <meta name="msapplication-config" content="img/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
 </head>
-<body>
+<body data-spy="scroll" data-target="#scrollspy-nav" data-offset="120" id="top">
+  <nav class="navbar navbar-inverse navbar-fixed-top" id="scrollspy-nav">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-bars fa-2x"></i>
+      </button>
+        <a class="navbar-brand" href="#top">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+            <i class="th-logo fa fa-stack-1x">TH</i>
+          </span>
+        </a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="mobile-navbar">
+        <ul class="nav navbar-nav">
+          <li><a href="#personal-information">Personal information</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#references">Publications</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="pdf/resume.pdf">PDF <i class="fa fa-file-pdf-o" aria-hidden="true"> </i></a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <nav class="navbar navbar-inverse navbar-fixed-bottom">
+    <div class="container-fluid">
+      <ul class="nav navbar-nav navbar-left">
+        <li><a href="mailto:twharrop@gmail.com"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a></li>
+        <li><a href="pdf/resume.pdf"><i class="fa fa-file-pdf-o fa-2x" aria-hidden="true"></i></a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://github.com/tomharrop" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a></li>
+        <li><a href="https://linkedin.com/in/tom-harrop-41893011a" target="_blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a></li>
+        <li><a href="https://stackoverflow.com/users/3017012/tom-harrop" target="_blank"><i class="fa fa-stack-overflow fa-2x" aria-hidden="true"></i></a></li>
+      </ul>
+    </div>
+  </nav>
 <div class="container">
 $if(title)$
 <header>
 <h1 id="title">$title$</h1>
-<div class="pdfdownload"><a href="pdf/resume.pdf" class="btn btn-success btn-xs">PDF version</a></div>
 </header>
 $endif$
+
+<div class="avatar"></div>
 
 $body$
 
@@ -41,13 +112,14 @@ $body$
 h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#116;&#x77;&#104;&#x61;&#114;&#114;&#x6f;&#112;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
 // -->
-</script><noscript>&#116;&#x77;&#104;&#x61;&#114;&#114;&#x6f;&#112;&#32;&#x61;&#116;&#32;&#x67;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#x6f;&#x6d;</noscript> · <a href="http://tomharrop.io">tomharrop.io</a><br />
+</script><noscript>&#116;&#x77;&#104;&#x61;&#114;&#114;&#x6f;&#112;&#32;&#x61;&#116;&#32;&#x67;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#x6f;&#x6d;</noscript> · <a id="contact" href="http://tomharrop.io">tomharrop.io</a><br />
 <a target="_blank" href="https://github.com/tomharrop"><img height="40" src="img/GitHub-Mark-64px.png" /></a>
 <a target="_blank" href="https://linkedin.com/in/tom-harrop-41893011a"><img height="40" src="img/In-2C-66px-TM.png" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/3017012/tom-harrop"><img height="40" src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/3017012/tom-harrop"><img height="40" src="img/so-icon.png" /></a>
 <br />
 Castelnau-le-Lez, Hérault, FRANCE</p>
 </blockquote>
 </div>
+<script type="text/javascript" src="js/scroll_offset.js"></script>
 </body>
 </html>
