@@ -58,7 +58,7 @@ body {
 
 /*Cheesy photo*/
 .avatar {
-  background-image: url('https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjKAAAAJGVjODg0YjAzLWNiMTYtNDYwYy1iNTQ3LTRiNmQ2YmVjMzNlNg.jpg');
+  background-image: url('/img/avatar.png');
   border-radius: 100%;
   background-size: cover;
   width: 100px;
