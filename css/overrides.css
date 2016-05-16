@@ -102,6 +102,11 @@ i.th-logo:hover {
   color: #fff;
 }
 
+/*Redefine font awesome linked in to avoid adblock*/
+.my-fa-linkedin:before {
+  content: "\f0e1";
+}
+
 /* Mobile layout */
 @media (max-width: 767px) {
   .navbar-fixed-bottom {
