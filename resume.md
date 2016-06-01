@@ -17,9 +17,9 @@ Research
 :   My research interests include plant and insect research related to agronomy, tools and techniques in bioinformatics and evolutionary and comparative biology.
 
 Technical
-:   Aside from daily use of `R`, `Python` and `bash` scripts, I also use `Markdown` regularly and have experience with `TeX`, `html` and `css`.
+:   My main tools are `R`, `Python` and `bash`. I also use `Markdown`, `TeX`, `html` and `css`.  
 :   I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding.  
-:   I have used several different workload managers for high-performance computing (HPC) including `SGE` and `LSF` and maintain an installation of `SLURM` on my own workstation.  
+:   I have experience with workload managers for high-performance computing (HPC) including `SGE` and `LSF` and maintain an installation of `SLURM` on my own workstation.  
 :   I have built and used workstations and servers that run MacOS, Ubuntu and FreeBSD, and run jobs in HPC environments running Debian and CentOS.  
 :   I have skills in molecular biology techniques including quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
 
@@ -49,11 +49,11 @@ Awards
 2014--Present
 :	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
 pour le Développement (IRD), Montpellier, France.  
-	I am using machine learning, data mining, statistical analyses and other bioinformatic techniques to study the development of inflorescence architecture in rice, which is related to crop yield. We used laser microdissection and RNA sequencing to characterise molecular events that occur in the developing inflorescence. We are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice.
+	I am using machine learning, data mining, statistical analyses and other bioinformatic techniques to study the development of inflorescence architecture in rice, which affects crop yield. We have used laser microdissection and RNA sequencing to characterise molecular events that occur in the developing inflorescence, and we are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice.
 
 2013--2014
 :	**Post-doctoral researcher**, Department of Plant Breeding and Genetics, Max Planck Institute for Plant Breeding Research, Cologne, Germany.  
-	At the Max Planck Institute I worked on a bioinformatic and molecular biology project to compare the transcriptional response of several different land plants to UV-B exposure, which acts as an environmental signal.
+	At the Max Planck Institute I worked on a bioinformatic and molecular biology project to compare the transcriptional response of different land plants to UV-B exposure, which acts as an environmental signal.
 
 ### Professional positions
 
