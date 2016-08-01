@@ -4,7 +4,7 @@ title: "Thomas Harrop"
 
 ----
 
-> I am a senior post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I mainly work with `R`, `Python` and shell scripts. I have experience in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and MacOS.
+> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I mainly work with `R`, `Python` and shell scripts. I have experience in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and macOS.
 
 ----
 
@@ -20,7 +20,7 @@ Technical
 :   My main tools are `R`, `Python` and `bash`. I also use `Markdown`, `TeX`, `html` and `css`.  
 :   I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding.  
 :   I have experience with workload managers for high-performance computing (HPC) including `SGE` and `LSF` and maintain an installation of `SLURM` on my own workstation.  
-:   I have built and used workstations and servers that run MacOS, Ubuntu and FreeBSD, and run jobs in HPC environments running Debian and CentOS.  
+:   I have built and used workstations and servers that run macOS, Ubuntu and FreeBSD, and run jobs in HPC environments running Debian and CentOS.  
 :   I have skills in molecular biology techniques including quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
 
 Languages
@@ -100,14 +100,16 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ^§^ Equal contribution
 
-### Selected scientific presentations
+### Selected conference contributions
 
-**Harrop, T.W.R.** Gene expression during *O. sativa* panicle development. Invited seminar, 19 November 2015, LMI RICE, Hanoi, Vietnam.
+Mechanisms underlying the parallel evolution of inflorescence phenotype during independent domestication of African and Asian rice. **Contributed oral presentation** at the 6^th^ meeting of the European Society for Evolutionary Developmental Biology, Uppsala, Sweden, 2016. **Joint symposium chair**: Branching across the tree of life.
 
-**Harrop, T.W.R.**, Gregis, V., Ud Din, I., Kater, M., Jouannic, S. and Adam, H. *Molecular mechanisms underlying the phenotypic convergence of inflorescence architecture in domesticated rice species.* Society for Molecular Biology and Evolution annual meeting, 2015, Vienna, Austria
+Gene expression during *O. sativa* panicle development. **Invited seminar** at the Agricultural Genetics Institute, Hanoi, Vietnam, 2015.
 
-**Harrop, T.W.R.**, Ud Din, I., Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. *Transcriptomic analysis of early developmental stages of the rice panicle.* Workshop in Molecular Mechanisms Controlling Flowering, 2015, Aiguablava, Spain.
+Molecular mechanisms underlying the phenotypic convergence of inflorescence architecture in domesticated rice species. **Poster presentation** at the Society for Molecular Biology and Evolution annual meeting, Vienna, Austria, 2015.
 
-**Harrop, T.W.R.**, Batterham, P. and Daborn, P.J. *RNA interference of the Cytochrome P450 redox partners* Cpr *and* dare *uncovers novel P450 functions in* Drosophila melanogaster. The 50th Annual Drosophila Research Conference, 2009, Chicago, USA.
+Transcriptomic analysis of early developmental stages of the rice panicle. **Poster presentation** at the Workshop in Molecular Mechanisms Controlling Flowering, Aiguablava, Spain, 2015
+
+RNA interference of the Cytochrome P450 redox partners *Cpr* and *dare* uncovers novel P450 functions in *Drosophila melanogaster*. **Poster presentation** at the 50^th^ Annual Drosophila Research Conference, Chicago, USA, 2009.
 
 ----
