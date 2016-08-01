@@ -102,14 +102,14 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ### Selected conference contributions
 
-Mechanisms underlying the parallel evolution of inflorescence phenotype during independent domestication of African and Asian rice. **Contributed oral presentation** at the 6^th^ meeting of the European Society for Evolutionary Developmental Biology, Uppsala, Sweden, 2016. **Joint symposium chair**: Branching across the tree of life.
+*Mechanisms underlying the parallel evolution of inflorescence phenotype during independent domestication of African and Asian rice*. **Contributed oral presentation** at the 6^th^ meeting of the European Society for Evolutionary Developmental Biology, Uppsala, Sweden, 2016. **Joint symposium chair**: Branching across the tree of life.
 
-Gene expression during *O. sativa* panicle development. **Invited seminar** at the Agricultural Genetics Institute, Hanoi, Vietnam, 2015.
+*Gene expression during* O. sativa *panicle development*. **Invited seminar** at the Agricultural Genetics Institute, Hanoi, Vietnam, 2015.
 
-Molecular mechanisms underlying the phenotypic convergence of inflorescence architecture in domesticated rice species. **Poster presentation** at the Society for Molecular Biology and Evolution annual meeting, Vienna, Austria, 2015.
+*Molecular mechanisms underlying the phenotypic convergence of inflorescence architecture in domesticated rice species*. **Poster presentation** at the Society for Molecular Biology and Evolution annual meeting, Vienna, Austria, 2015.
 
-Transcriptomic analysis of early developmental stages of the rice panicle. **Poster presentation** at the Workshop in Molecular Mechanisms Controlling Flowering, Aiguablava, Spain, 2015
+*Transcriptomic analysis of early developmental stages of the rice panicle*. **Poster presentation** at the Workshop in Molecular Mechanisms Controlling Flowering, Aiguablava, Spain, 2015
 
-RNA interference of the Cytochrome P450 redox partners *Cpr* and *dare* uncovers novel P450 functions in *Drosophila melanogaster*. **Poster presentation** at the 50^th^ Annual Drosophila Research Conference, Chicago, USA, 2009.
+*RNA interference of the Cytochrome P450 redox partners* Cpr *and* dare *uncovers novel P450 functions in* Drosophila melanogaster. **Poster presentation** at the 50^th^ Annual Drosophila Research Conference, Chicago, USA, 2009.
 
 ----
