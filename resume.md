@@ -100,7 +100,7 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ^§^ Equal contribution
 
-### Selected conference contributions
+### Selected scientific presentations
 
 *Mechanisms underlying the parallel evolution of inflorescence phenotype during independent domestication of African and Asian rice*. **Contributed oral presentation** at the 6^th^ meeting of the European Society for Evolutionary Developmental Biology, Uppsala, Sweden, 2016. **Joint symposium chair**: Branching across the tree of life.
 
