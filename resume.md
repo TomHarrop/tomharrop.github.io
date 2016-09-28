@@ -102,6 +102,8 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ### Selected scientific presentations
 
+*Genes controlling transition of reproductive meristem identity during inflorescence development*. **Oral presentation** at the 14^th^ International Symposium on Rice Functional Genomics, Montpellier, France, 2016.
+
 *Mechanisms underlying the parallel evolution of inflorescence phenotype during independent domestication of African and Asian rice*. **Contributed oral presentation** at the 6^th^ meeting of the European Society for Evolutionary Developmental Biology, Uppsala, Sweden, 2016. **Joint symposium chair**: Branching across the tree of life.
 
 *Gene expression during* O. sativa *panicle development*. **Invited seminar** at the Agricultural Genetics Institute, Hanoi, Vietnam, 2015.
