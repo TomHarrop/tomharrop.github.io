@@ -46,10 +46,15 @@ Awards
 
 ### Research positions
 
-2014--Present
+2016--Present
+
+:   **Post-doctoral researcher**, Laboratory for Evolution and Development, Biochemistry Department, University of Otago, Dunedin, New Zealand.  
+    In my current position, I work on a bioprotection project investigating the resistance of Argentine stem weevil to its biological control agent.
+
+2014--2016
 :	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
 pour le Développement (IRD), Montpellier, France.  
-	I am using machine learning, data mining, statistical analyses and other bioinformatic techniques to study the development of inflorescence architecture in rice, which affects crop yield. We have used laser microdissection and RNA sequencing to characterise molecular events that occur in the developing inflorescence, and we are now applying these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice.
+	I used machine learning, data mining, statistical analyses and other bioinformatic techniques to study the development of inflorescence architecture in rice, which affects crop yield. We used laser microdissection and RNA sequencing to characterise molecular events that occur in the developing inflorescence, and applied these results to study the effects of selection on gene expression during the parallel domestications of African and Asian rice.
 
 2013--2014
 :	**Post-doctoral researcher**, Department of Plant Breeding and Genetics, Max Planck Institute for Plant Breeding Research, Cologne, Germany.  
