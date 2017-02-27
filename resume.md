@@ -95,6 +95,8 @@ Communication pour la Santé, Université de Montpellier, France.
 
 ### Peer-reviewed journals
 
+Ta, K. N., Adam. H., Staedler, Y.M., Schönenberger, J., **Harrop. T.W.R.**, Tregear, J., Do, N.V.,Gantet, P., Ghesquière, A., and Jouannic, S. (2017). Differences in meristem size and expression of branching genes are associated with variation in panicle phenotype in wild and domesticated African rice. EvoDevo 8: 2. [doi:10.1186/s13227-017-0065-y](http://dx.doi.org/10.1186/s13227-017-0065-y).
+
 **Harrop, T.W.R.**^§^, Ud Din, I.^§^, Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection. The Plant Journal 86, 75--88. [doi:10.1111/tpj.13147](http://dx.doi.org/10.1111/tpj.13147).
 
 **Harrop, T.W.R.**^§^, Pearce, S.L.^§^, Daborn, P.J. and Batterham, P. (2014). Whole-genome expression analysis in the third instar larval midgut of *Drosophila melanogaster*. G3 (Bethesda) 4, 2197--2205. [doi:10.1534/g3.114.013870](http://g3journal.org/cgi/doi/10.1534/g3.114.013870).
