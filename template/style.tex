@@ -14,8 +14,11 @@ $if(title)$
 $endif$
 
 % Type
-\usetypescript[lato]
-\setupbodyfont[lato, 10pt]
+\definefontfamily [mainface] [rm] [Lato]
+\definefontfamily [mainface] [ss] [Lato]
+\definefontfamily [mainface] [tt] [Inconsolata LGC]
+\definefontfamily [mainface] [mm] [Lato]
+\setupbodyfont[mainface, 12pt]
 \definefont[ms][Mono sa 0.95]
 % \defineframed
 %   [dohotkey]
@@ -119,7 +122,7 @@ $body$
 
 \blank[small]
 
-Castelnau-le-Lez, Hérault, FRANCE}
+Dunedin, NEW ZEALAND}
 
 \stopblockquote
 
