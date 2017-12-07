@@ -103,11 +103,19 @@ Ta, K. N., Adam. H., Staedler, Y.M., Schönenberger, J., **Harrop. T.W.R.**, Tre
 
 **Harrop, T.W.R.**, Sztal, T., Lumb, C., Good, R.T., Daborn, P.J., Batterham, P. and Chung, H. (2014). Evolutionary changes in gene expression, coding sequence and copy-number at the *Cyp6g1* locus contribute to resistance to multiple insecticides in Drosophila. Plos One 9, e84879. [doi:10.1371/journal.pone.0084879](http://dx.plos.org/10.1371/journal.pone.0084879).
 
-Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S., Mitchell, S.N., Donnelly, M.J., Müller, P. and Batterham, P., (2012). Using *Drosophila melanogaster* to validate metabolism-based insecticide resistance from insect pests. Insect Biochemistry and Molecular Biology 42, 918--924. [doi:10.1016/j.ibmb.2012.09.003](http://linkinghub.elsevier.com/retrieve/pii/S0965174812001269).
+Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S., Mitchell, S.N., Donnelly, M.J., Müller, P. and Batterham, P. (2012). Using *Drosophila melanogaster* to validate metabolism-based insecticide resistance from insect pests. Insect Biochemistry and Molecular Biology 42, 918--924. [doi:10.1016/j.ibmb.2012.09.003](http://linkinghub.elsevier.com/retrieve/pii/S0965174812001269).
 
 ^§^ Equal contribution
 
+### Book chapters
+
+Cridge, A., **Harrop, T. W. R.**, Lovegrove, M., Remnant, E. & Dearden, P. (2017). *Nutrition and Epigenetic Change in Insects: Evidence and Implications*, in Advances in Insect Physiology (ed. Verlinden, H.) 53, 31–54 (Academic Press). [doi:10.1016/bs.aiip.2017.06.001](http://www.sciencedirect.com/science/article/pii/S006528061730022X)
+
 ### Selected scientific presentations
+
+*Genomics of a weevil pest and its parasitoid biocontrol agent*. **Poster presentation** at the Annual Conference of the Genetics Society of Australasia (GSA) with the New Zealand Society for Biochemistry and Molecular Biology (NZSBMB), Dunedin, New Zealand, 2017.
+
+De novo *sequencing of Argentine stem weevil and its parasitoid wasp biocontrol agent*. **Poster presentation** at the 10^th^ Annual Arthropod Genomics Symposium, Notre Dame University, South Bend, U.S.A.
 
 *Sequencing and community annotation of the* Vespula vulgaris *genome*. **Oral presentation** at the Entomological Society of NZ Conference, Wellington, New Zealand, 2017.
 
