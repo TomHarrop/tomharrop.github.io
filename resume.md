@@ -95,6 +95,8 @@ Communication pour la Santé, Université de Montpellier, France.
 
 ### Peer-reviewed journals
 
+**Harrop, T.W.**^§^, Denecke, S.^§^, Yang, Y.T., Chan, J., Daborn, P.J., Perry, T., Batterham, P., (2018). Evidence for activation of nitenpyram by a mitochondrial cytochrome P450 in *Drosophila melanogaster*. Pest Management Science 74, 1616–1622. [doi:10.1002/ps.4852](https://doi.org/10.1002/ps.4852).
+
 Ta, K. N., Adam. H., Staedler, Y.M., Schönenberger, J., **Harrop. T.W.R.**, Tregear, J., Do, N.V.,Gantet, P., Ghesquière, A., and Jouannic, S. (2017). Differences in meristem size and expression of branching genes are associated with variation in panicle phenotype in wild and domesticated African rice. EvoDevo 8: 2. [doi:10.1186/s13227-017-0065-y](http://dx.doi.org/10.1186/s13227-017-0065-y).
 
 **Harrop, T.W.R.**^§^, Ud Din, I.^§^, Gregis, V., Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection. The Plant Journal 86, 75--88. [doi:10.1111/tpj.13147](http://dx.doi.org/10.1111/tpj.13147).
@@ -113,9 +115,11 @@ Cridge, A., **Harrop, T. W. R.**, Lovegrove, M., Remnant, E. & Dearden, P. (2017
 
 ### Selected scientific presentations
 
+*Comparative genomics of sexual and asexual parasitoid wasps from the Microctonus genus*. **Poster presentation** at the 7^th^ meeting of the European Society for Evolutionary Developmental Biology, Galway, Ireland, 2018.
+
 *Genomics of a weevil pest and its parasitoid biocontrol agent*. **Poster presentation** at the Annual Conference of the Genetics Society of Australasia (GSA) with the New Zealand Society for Biochemistry and Molecular Biology (NZSBMB), Dunedin, New Zealand, 2017.
 
-De novo *sequencing of Argentine stem weevil and its parasitoid wasp biocontrol agent*. **Poster presentation** at the 10^th^ Annual Arthropod Genomics Symposium, Notre Dame University, South Bend, U.S.A.
+De novo *sequencing of Argentine stem weevil and its parasitoid wasp biocontrol agent*. **Poster presentation** at the 10^th^ Annual Arthropod Genomics Symposium, Notre Dame University, South Bend, U.S.A., 2017.
 
 *Sequencing and community annotation of the* Vespula vulgaris *genome*. **Oral presentation** at the Entomological Society of NZ Conference, Wellington, New Zealand, 2017.
 
