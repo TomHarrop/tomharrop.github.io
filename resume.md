@@ -84,6 +84,9 @@ pour le Développement (IRD), Montpellier, France.
 
 ### Students co-supervised
 
+Marissa Le Lec
+:   **Bachelor of Science with Honours**, Genetics, University of Otago, Dunedin, New Zealand.
+
 Swarit Jaisal
 :	**Master of Science**, Life Science Informatics, Universität Bonn, Germany.
 
