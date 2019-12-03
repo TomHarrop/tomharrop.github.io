@@ -17,17 +17,13 @@ Research
 :   My research interests include plant and insect research related to agronomy, tools and techniques in bioinformatics and evolutionary and comparative biology.
 
 Technical
-:   My main tools are `R`, `Python` and `bash`. I also use `Markdown`, `TeX`, `html` and `css`.  
-:   I use `git` and `GitHub` for version control and strive to follow the principles of reproducible research when coding.  
-:   I have experience with workload managers for high-performance computing (HPC) including `SGE` and `LSF` and maintain an installation of `SLURM` on my own workstation.  
+:   My main tools are `R`, `Python` and `bash`. I use `git` and `GitHub` for version control and follow the principles of reproducible research when coding. I also use `Markdown`, `TeX`, `html` and `css`.  
+:   I have experience with workload managers for high-performance computing (HPC) including `SGE`, `LSF` and `SLURM`.
 :   I have built and used workstations and servers that run macOS, Ubuntu and FreeBSD, and run jobs in HPC environments running Debian and CentOS.  
 :   I have skills in molecular biology techniques including quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
 
 Languages
 :   English (native), German (TELC Level B2) and French (TELC Level B1)
-
-About me
-:   Outside work I enjoy building and riding bicycles, social football and basketball, cooking, programming and technology.
 
 ## Education
 
@@ -46,10 +42,15 @@ Awards
 
 ### Research positions
 
-2016--Present
+2017--Present
 
 :   **Post-doctoral researcher**, Laboratory for Evolution and Development, Biochemistry Department, University of Otago, Dunedin, New Zealand.  
-    In my current position, I work on a bioprotection project investigating the resistance of Argentine stem weevil to its biological control agent.
+    I am currently working on a project to develop and apply tools to integrate genomic selection to breeding programmes to improve honeybee performance.
+
+2016--2017
+
+:   **Post-doctoral researcher**, Laboratory for Evolution and Development, Biochemistry Department, University of Otago, Dunedin, New Zealand.  
+    In this project, I worked on a bioprotection project investigating the resistance of Argentine stem weevil to its biological control agent.
 
 2014--2016
 :	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
@@ -98,7 +99,13 @@ Communication pour la Santé, Université de Montpellier, France.
 
 ### Peer-reviewed journals
 
-**Harrop, T.W.**^§^, Denecke, S.^§^, Yang, Y.T., Chan, J., Daborn, P.J., Perry, T., Batterham, P., (2018). Evidence for activation of nitenpyram by a mitochondrial cytochrome P450 in *Drosophila melanogaster*. Pest Management Science 74, 1616–1622. [doi:10.1002/ps.4852](https://doi.org/10.1002/ps.4852).
+Lamichhane, R., Schneider, M., Harpe, S.M. de la, **Harrop, T.W.R.**, Hannaway, R.F., Dearden, P.K., Kirman, J.R., Tyndall, J.D.A., Vernall, A.J., and Ussher, J.E. (2019). TCR- or Cytokine-Activated CD8+ Mucosal-Associated Invariant T Cells Are Rapid Polyfunctional Effectors That Can Coordinate Immune Responses. Cell Reports 28, 3061-3076.e5. [doi:10.1016/j.celrep.2019.08.054](https://doi.org/10.1016/j.celrep.2019.08.054).
+
+**Harrop, T.W.R.**, Mantegazza, O., Luong, A.M., Béthune, K., Lorieux, M., Jouannic, S., and Adam, H. (2019). A set of *AP2*-like genes is associated with inflorescence branching and architecture in domesticated rice. Journal of Experimental Botany 70, 5617--5629. [doi:10.1093/jxb/erz340](https://doi.org/10.1093/jxb/erz340)
+
+Guerrero, F.D., Bendele, K.G., Ghaffari, N., Guhlin, J., Gedye, K.R., Lawrence, K.E., Dearden, P.K., **Harrop, T.W.R.**, Heath, A.C.G., Lun, Y., et al. (2019). The Pacific Biosciences *de novo* assembled genome dataset from a parthenogenetic New Zealand wild population of the longhorned tick, *Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27, 104602. [doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
+
+**Harrop, T.W.**^§^, Denecke, S.^§^, Yang, Y.T., Chan, J., Daborn, P.J., Perry, T., Batterham, P., (2018). Evidence for activation of nitenpyram by a mitochondrial cytochrome P450 in *Drosophila melanogaster*. Pest Management Science 74, 1616--1622. [doi:10.1002/ps.4852](https://doi.org/10.1002/ps.4852).
 
 Ta, K. N., Adam. H., Staedler, Y.M., Schönenberger, J., **Harrop. T.W.R.**, Tregear, J., Do, N.V.,Gantet, P., Ghesquière, A., and Jouannic, S. (2017). Differences in meristem size and expression of branching genes are associated with variation in panicle phenotype in wild and domesticated African rice. EvoDevo 8: 2. [doi:10.1186/s13227-017-0065-y](http://dx.doi.org/10.1186/s13227-017-0065-y).
 
@@ -117,6 +124,8 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 Cridge, A., **Harrop, T. W. R.**, Lovegrove, M., Remnant, E. & Dearden, P. (2017). *Nutrition and Epigenetic Change in Insects: Evidence and Implications*, in Advances in Insect Physiology (ed. Verlinden, H.) 53, 31–54 (Academic Press). [doi:10.1016/bs.aiip.2017.06.001](http://www.sciencedirect.com/science/article/pii/S006528061730022X)
 
 ### Selected scientific presentations
+
+*The genomes of three invasive social wasps*. **Oral presentation** at the Annual Conference of the Genetics Society of Australasia (GSA), Melbourne, Australia, 2019. **Symposium chair**: Genomics & bioinformatics.
 
 *Comparative genomics of sexual and asexual parasitoid wasps from the Microctonus genus*. **Poster presentation** at the 7^th^ meeting of the European Society for Evolutionary Developmental Biology, Galway, Ireland, 2018.
 
