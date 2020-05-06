@@ -5,7 +5,12 @@ pdf/resume.pdf: template/style.tex resume.md
 	pandoc --standalone --template template/style.tex \
 	--from markdown --to context \
 	-V papersize=A4 -o pdf/resume.tex resume.md ; \
-	src/label_reference_subsection.py pdf/resume.tex > pdf/resume_mod.tex
+	sed -e \
+	's/\\subsection\[title={Publications},reference={references}\]/\\startnegindent\n\\subsection\[title={Publications},reference={references}\]/g' \
+	pdf/resume.tex \
+	| sed -e \
+	's/\\thinrule/\\stopnegindent\n\\thinrule/g' \
+	> pdf/resume_mod.tex ;
 	(cd pdf && context resume_mod.tex --result=resume.pdf)
 
 html: index.html

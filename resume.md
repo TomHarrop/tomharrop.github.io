@@ -99,9 +99,11 @@ Communication pour la Santé, Université de Montpellier, France.
 
 ### Peer-reviewed journals
 
-Lamichhane, R., Schneider, M., Harpe, S.M. de la, **Harrop, T.W.R.**, Hannaway, R.F., Dearden, P.K., Kirman, J.R., Tyndall, J.D.A., Vernall, A.J., and Ussher, J.E. (2019). TCR- or Cytokine-Activated CD8+ Mucosal-Associated Invariant T Cells Are Rapid Polyfunctional Effectors That Can Coordinate Immune Responses. Cell Reports 28, 3061-3076.e5. [doi:10.1016/j.celrep.2019.08.054](https://doi.org/10.1016/j.celrep.2019.08.054).
+Morgan, B.M., Brown, A.N., Deo, N., **Harrop, T.W.R.**, Taiaroa, G., Mace, P.D., Wilbanks, S.M., Merriman, T.R., Williams, M.J.A., McCormick, S.P.A. (2020). Nonsynonymous SNPs in *LPA* homologous to plasminogen deficiency mutants represent novel null apo(a) alleles. Journal of Lipid Research 61(3), 432--44. [doi:10.1194/jlr.M094540](https://doi.org/10.1194/jlr.M094540).
 
-**Harrop, T.W.R.**, Mantegazza, O., Luong, A.M., Béthune, K., Lorieux, M., Jouannic, S., and Adam, H. (2019). A set of *AP2*-like genes is associated with inflorescence branching and architecture in domesticated rice. Journal of Experimental Botany 70, 5617--5629. [doi:10.1093/jxb/erz340](https://doi.org/10.1093/jxb/erz340)
+Lamichhane, R., Schneider, M., de la Harpe, S.M., **Harrop, T.W.R.**, Hannaway, R.F., Dearden, P.K., Kirman, J.R., Tyndall, J.D.A., Vernall, A.J., and Ussher, J.E. (2019). TCR- or Cytokine-Activated CD8+ Mucosal-Associated Invariant T Cells Are Rapid Polyfunctional Effectors That Can Coordinate Immune Responses. Cell Reports 28, 3061-3076.e5. [doi:10.1016/j.celrep.2019.08.054](https://doi.org/10.1016/j.celrep.2019.08.054).
+
+**Harrop, T.W.R.**, Mantegazza, O., Luong, A.M., Béthune, K., Lorieux, M., Jouannic, S., and Adam, H. (2019). A set of *AP2*-like genes is associated with inflorescence branching and architecture in domesticated rice. Journal of Experimental Botany 70, 5617--5629. [doi:10.1093/jxb/erz340](https://doi.org/10.1093/jxb/erz340).
 
 Guerrero, F.D., Bendele, K.G., Ghaffari, N., Guhlin, J., Gedye, K.R., Lawrence, K.E., Dearden, P.K., **Harrop, T.W.R.**, Heath, A.C.G., Lun, Y., et al. (2019). The Pacific Biosciences *de novo* assembled genome dataset from a parthenogenetic New Zealand wild population of the longhorned tick, *Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27, 104602. [doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
 
