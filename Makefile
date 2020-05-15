@@ -1,4 +1,4 @@
-all: html pdf
+all: index pdf
 
 pdf: pdf/resume.pdf
 pdf/resume.pdf: template/style.tex resume.md
@@ -13,15 +13,16 @@ pdf/resume.pdf: template/style.tex resume.md
 	> pdf/resume_mod.tex ;
 	(cd pdf && context resume_mod.tex --result=resume.pdf)
 
-# html: index.html
-# index.html: template/template.html5 css/flatly.css css/overrides.css resume.md
-# 	pandoc --from markdown --to html5+smart \
-# 		--css css/flatly.css --css css/overrides.css \
-# 		--standalone --template template/template.html5 \
-# 		-o index.html resume.md
+index: index.md
+index.md: resume.md
+	sed -n /^---$$/,/^---$$/p resume.md > index.md ; \
+	pandoc --from markdown+definition_lists \
+	--to markdown_phpextra+definition_lists \
+	resume.md \
+	| grep -v "\mybq" \
+	>> index.md
 
 clean:
-	rm index.html
 	rm pdf/resume.tex
 	rm pdf/resume.tuc
 	rm pdf/resume.log

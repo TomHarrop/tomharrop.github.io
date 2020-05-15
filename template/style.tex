@@ -9,9 +9,7 @@
 \setupindenting[no]
 
 % PDF title
-$if(title)$
-\setupinteraction[state=start, title=$title$]
-$endif$
+\setupinteraction[state=start, title=Thomas  Harrop]
 
 % Type
 \definefontfamily [mainface] [rm] [Lato]
@@ -87,18 +85,19 @@ $endif$
 \setupdelimitedtext[blockquote]
   [before={\setupalign[middle]},
    indentnext=no]
+\define\mybqstart{\startblockquote}
+\define\mybqstop{\stopblockquote}
+
 
 \starttext
 
-$if(title)$
-\section[title]{$title$}
+\section[title]{Thomas Harrop}
 
 \startblockquote
 
 \useURL[em2][mailto:twharrop@gmail.com][][twharrop@gmail.com]\from[em2] · \useURL[ws][http://tomharrop.io][][tomharrop.io]\from[ws]
 
 \stopblockquote
-$endif$
 
 $body$
 

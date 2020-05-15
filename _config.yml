@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Tom Harrop"
+title                    : "Thomas Harrop"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Tom Harrop"
+name                     : "Thomas Harrop"
 description              : # "An amazing website."
 url                      : "https://tomharrop.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -178,7 +178,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  input: GFM
+  input: kramdown
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1

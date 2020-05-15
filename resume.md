@@ -1,10 +1,20 @@
 ---
-title: "Thomas Harrop"
+# title: "blerf"
+layout: single
+author_profile: true
+toc: true
+toc_label: "About me"
+toc_sticky: true
 ---
+
 
 ----
 
-> I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I mainly work with `R`, `Python` and shell scripts. I have experience in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and macOS.
+\mybqstart
+
+I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I mainly work with `R`, `Python` and shell scripts. I have experience in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and macOS.
+
+\mybqstop
 
 ----
 
