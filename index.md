@@ -1,5 +1,5 @@
 ---
-# title: "blerf"
+title: "Thomas Harrop"
 layout: single
 author_profile: true
 toc: true
