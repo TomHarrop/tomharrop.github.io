@@ -1,10 +1,11 @@
 ---
-title: "Thomas Harrop"
+# title: "Thomas Harrop"
 layout: single
 author_profile: true
 toc: true
 toc_label: "About me"
 toc_sticky: true
+# toc_icon: "fas fa-bars"
 ---
 
 
