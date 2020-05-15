@@ -9,9 +9,7 @@
 \setupindenting[no]
 
 % PDF title
-$if(title)$
-\setupinteraction[state=start, title=$title$]
-$endif$
+\setupinteraction[state=start, title=Thomas  Harrop]
 
 % Type
 \definefontfamily [mainface] [rm] [Lato]
@@ -87,18 +85,19 @@ $endif$
 \setupdelimitedtext[blockquote]
   [before={\setupalign[middle]},
    indentnext=no]
+\define\mybqstart{\startblockquote}
+\define\mybqstop{\stopblockquote}
+
 
 \starttext
 
-$if(title)$
-\section[title]{$title$}
+\section[title]{Thomas Harrop}
 
 \startblockquote
 
 \useURL[em2][mailto:twharrop@gmail.com][][twharrop@gmail.com]\from[em2] · \useURL[ws][http://tomharrop.io][][tomharrop.io]\from[ws]
 
 \stopblockquote
-$endif$
 
 $body$
 
@@ -112,13 +111,13 @@ $body$
 
 \dontleavehmode%
 \gotobox{\framed{%
-  \externalfigure[img/GitHub-Mark][height=4ex]}}[url(gh)]%
+  \externalfigure[src/img/GitHub-Mark][height=4ex]}}[url(gh)]%
 \hskip1.5em%
 \gotobox{\framed{%
-  \externalfigure[img/In-2C-CMYK-2in-TM][height=4ex]}}[url(li)]%
+  \externalfigure[src/img/In-2C-CMYK-2in-TM][height=4ex]}}[url(li)]%
 \hskip1.5em%
 \gotobox{\framed{%
-  \externalfigure[img/so-icon.eps][height=4ex]}}[url(so)]
+  \externalfigure[src/img/so-icon.eps][height=4ex]}}[url(so)]
 
 \blank[small]
 
