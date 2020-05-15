@@ -9,4 +9,4 @@ main:
   - title: "Publications"
     url: "#references"
   - title: "CV <i class=\"fas fa-fw fa-file-pdf\"></i>"
-    url: "/pdf/resume.pdf"
+    url: "/assets/cv.pdf"

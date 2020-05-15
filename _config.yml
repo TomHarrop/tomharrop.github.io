@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  avatar           : "/img/avatar.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/avatar.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bioinformatics & Genomics"
   location         : "Dunedin, NZ"
   # location         : "Melbourne, AU"
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/pdf/resume.pdf"
+      url: "/assets/cv.pdf"
     - label: "twharrop@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:twharrop@gmail.com"
