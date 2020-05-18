@@ -13,41 +13,44 @@ toc_sticky: true
 
 \mybqstart
 
-I am a post-doctoral researcher with a background in bioinformatics, genetics and molecular biology and interests in data science and research relating to agriculture. I mainly work with `R`, `Python` and shell scripts. I have experience in molecular, plant, animal and medical laboratories and installing, maintaining and using computers running Unix, Linux and macOS.
+I work with large-scale genetic, genomic and transcriptomic datasets.  
+I use `R` and `python` to tidy, analyse and visualise data and communicate results.  
+I generate data using 2^nd^- and 3^rd^-generation sequencing.
 
 \mybqstop
 
 ----
 
-## Personal information
+## About me
+
+### Technical skills
+
+My main tools for programming and data analysis are `python` and `R` .
+I'm also experienced with `bash` scripting.
+I visualise and communicate my results with `ggplot2`, `markdown`, `pandoc`, `TeX` and a bit of `html` & `css`.
+I use `git`, `snakemake`, `singularity` and `Docker` to keep my work reproducible.
+I've used workflow managers (`SLURM`, `LSF` and `SGE`) for managing jobs in high-performance computing environments.
+I'm comfortable working with, installing and administrating *nix operating systems (`Linux`, `macOS` and `FreeBSD`).
+
+I'm an experienced molecular biologist.
+I am skilled at the entire wet-lab workflow for producing short and long read sequencing libraries, from nucleic acid extraction to library preparation and running sequencing instruments.
+I have experience with classical genetic approaches with live organisms, including transformation, crosses, microdissection and bioassays.
+
+I've collaborated with research and commercial efforts
+
+### Research
+
+I'm interested in research related to agriculture and development, tools and techniques in bioinformatics and evolutionary and comparative biology.
+
+### Personal information
+
+Languages
+:   English (native)  
+    German (TELC Level B2)  
+    French (TELC Level B1)
 
 Nationalities
 :   Australian and British
-
-Research
-:   My research interests include plant and insect research related to agronomy, tools and techniques in bioinformatics and evolutionary and comparative biology.
-
-Technical
-:   My main tools are `R`, `Python` and `bash`. I use `git` and `GitHub` for version control and follow the principles of reproducible research when coding. I also use `Markdown`, `TeX`, `html` and `css`.  
-:   I have experience with workload managers for high-performance computing (HPC) including `SGE`, `LSF` and `SLURM`.
-:   I have built and used workstations and servers that run macOS, Ubuntu and FreeBSD, and run jobs in HPC environments running Debian and CentOS.  
-:   I have skills in molecular biology techniques including quantitative real-time PCR, cloning, nucleic acid extraction and cDNA library preparation, as well as classical genetic approaches with live organisms, such as transformation, crosses, microdissection and bioassays.
-
-Languages
-:   English (native), German (TELC Level B2) and French (TELC Level B1)
-
-## Education
-
-2006--2012
-:	**Doctor of Philosophy**, Department of Genetics, the University of Melbourne, Parkville, Australia.  
-	Thesis: [*The functions of cytochrome P450s in Drosophila*.](http://cat.lib.unimelb.edu.au/record=b4827945~S32)  
-	During my Ph.D. I used classical genetics and modern molecular biology, including transgenic manipulation of gene expression and comparative studies of gene function, to investigate the functions of cytochrome P450 genes in the Drosophila genus. 
-
-2002--2005
-:   **Bachelor of Science with Honours (first class)**, the University of Melbourne, Parkville, Australia.
-
-Awards
-:   **2006--2009**, Australian Postgraduate Award
 
 ## Experience
 
@@ -80,19 +83,32 @@ pour le Développement (IRD), Montpellier, France.
 2001--2004
 :	**Laboratory assistant**, Network Pathology, the Austin Hospital, Heidelberg, Australia.
 
+## Education
+
+2006--2012
+:   **Doctor of Philosophy**, Department of Genetics, the University of Melbourne, Parkville, Australia.  
+    Thesis: [*The functions of cytochrome P450s in Drosophila*.](http://cat.lib.unimelb.edu.au/record=b4827945~S32)  
+    During my Ph.D. I used classical genetics and modern molecular biology, including transgenic manipulation of gene expression and comparative studies of gene function, to investigate the functions of cytochrome P450 genes in the Drosophila genus. 
+
+2002--2005
+:   **Bachelor of Science with Honours (first class)**, the University of Melbourne, Parkville, Australia.
+
+Awards
+:   **2006--2009**, Australian Postgraduate Award
+
 ### Teaching
 
 2007--2011
-:	**3^rd^ Year Genetics**, Department of Genetics, The University of Melbourne, Parkville, Australia.
+:   **3^rd^ Year Genetics**, Department of Genetics, The University of Melbourne, Parkville, Australia.
 
 2006--2009
-:	**High School Biology**, Department of Genetics, The University of Melbourne, Parkville, Australia.
+:   **High School Biology**, Department of Genetics, The University of Melbourne, Parkville, Australia.
 
 2006--2008
-:	**High School Biology**, Gene Technology Access Centre, The University High School, Parkville, Australia.
+:   **High School Biology**, Gene Technology Access Centre, The University High School, Parkville, Australia.
 
 2005--2008
-:	**1^st^ Year Genetics**, The University of Melbourne, Parkville, Australia.
+:   **1^st^ Year Genetics**, The University of Melbourne, Parkville, Australia.
 
 ### Students co-supervised
 
@@ -100,10 +116,10 @@ Marissa Le Lec
 :   **Bachelor of Science with Honours**, Genetics, University of Otago, Dunedin, New Zealand.
 
 Swarit Jaisal
-:	**Master of Science**, Life Science Informatics, Universität Bonn, Germany.
+:   **Master of Science**, Life Science Informatics, Universität Bonn, Germany.
 
 Axel Verdier
-:	**Master of Science**, Sciences et Technologies de l’Information et de la
+:   **Master of Science**, Sciences et Technologies de l’Information et de la
 Communication pour la Santé, Université de Montpellier, France.
 
 ## Publications {#references}

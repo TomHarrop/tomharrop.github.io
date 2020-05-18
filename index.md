@@ -9,44 +9,50 @@ toc_sticky: true
 ---
 ------------------------------------------------------------------------
 
-I am a post-doctoral researcher with a background in bioinformatics,
-genetics and molecular biology and interests in data science and
-research relating to agriculture. I mainly work with `R`, `Python` and
-shell scripts. I have experience in molecular, plant, animal and medical
-laboratories and installing, maintaining and using computers running
-Unix, Linux and macOS.
+I work with large-scale genetic, genomic and transcriptomic datasets.  
+I use `R` and `python` to tidy, analyse and visualise data and
+communicate results.  
+I generate data using 2<sup>nd</sup>- and 3<sup>rd</sup>-generation
+sequencing.
 
 ------------------------------------------------------------------------
 
-Personal information {#personal-information}
---------------------
+About me {#about-me}
+--------
+
+### Technical skills {#technical-skills}
+
+My main tools for programming and data analysis are `python` and `R` .
+I’m also experienced with `bash` scripting. I visualise and communicate
+my results with `ggplot2`, `markdown`, `pandoc`, `TeX` and a bit of
+`html` & `css`. I use `git`, `snakemake`, `singularity`, `Docker` to
+keep my work reproducible. I’ve used workflow managers (`SLURM`, `LSF`
+and `SGE`) for managing jobs in high-performance computing environments.
+I’m comfortable working with, installing administrating \*nix operating
+systems (Linux, macOS, FreeBSD).
+
+I’m an experienced molecular biologist. I am skilled at the entire
+wet-lab workflow for producing short and long read sequencing libraries,
+from nucleic acid extraction to library preparation and running
+sequencing instruments. I have experience with classical genetic
+approaches with live organisms, including transformation, crosses,
+microdissection and bioassays.
+
+### Research {#research}
+
+I’m interested in research related to agriculture and development, tools
+and techniques in bioinformatics and evolutionary and comparative
+biology.
+
+### Personal information {#personal-information}
+
+Languages
+:   English (native)  
+    German (TELC Level B2)  
+    French (TELC Level B1)
 
 Nationalities
 :   Australian and British
-
-Research
-:   My research interests include plant and insect research related to
-    agronomy, tools and techniques in bioinformatics and evolutionary
-    and comparative biology.
-
-Technical
-:   My main tools are `R`, `Python` and `bash`. I use `git` and `GitHub`
-    for version control and follow the principles of reproducible
-    research when coding. I also use `Markdown`, `TeX`, `html` and
-    `css`.
-:   I have experience with workload managers for high-performance
-    computing (HPC) including `SGE`, `LSF` and `SLURM`.
-:   I have built and used workstations and servers that run macOS,
-    Ubuntu and FreeBSD, and run jobs in HPC environments running Debian
-    and CentOS.
-:   I have skills in molecular biology techniques including quantitative
-    real-time PCR, cloning, nucleic acid extraction and cDNA library
-    preparation, as well as classical genetic approaches with live
-    organisms, such as transformation, crosses, microdissection and
-    bioassays.
-
-Languages
-:   English (native), German (TELC Level B2) and French (TELC Level B1)
 
 Education {#education}
 ---------
