@@ -25,11 +25,11 @@ About me {#about-me}
 My main tools for programming and data analysis are `python` and `R` .
 I’m also experienced with `bash` scripting. I visualise and communicate
 my results with `ggplot2`, `markdown`, `pandoc`, `TeX` and a bit of
-`html` & `css`. I use `git`, `snakemake`, `singularity`, `Docker` to
+`html` & `css`. I use `git`, `snakemake`, `singularity` and `Docker` to
 keep my work reproducible. I’ve used workflow managers (`SLURM`, `LSF`
 and `SGE`) for managing jobs in high-performance computing environments.
-I’m comfortable working with, installing administrating \*nix operating
-systems (Linux, macOS, FreeBSD).
+I’m comfortable working with, installing and administrating \*nix
+operating systems (`Linux`, `macOS` and `FreeBSD`).
 
 I’m an experienced molecular biologist. I am skilled at the entire
 wet-lab workflow for producing short and long read sequencing libraries,
@@ -37,6 +37,8 @@ from nucleic acid extraction to library preparation and running
 sequencing instruments. I have experience with classical genetic
 approaches with live organisms, including transformation, crosses,
 microdissection and bioassays.
+
+<!-- Collaboration -->
 
 ### Research {#research}
 
@@ -53,26 +55,6 @@ Languages
 
 Nationalities
 :   Australian and British
-
-Education {#education}
----------
-
-2006–2012
-:   **Doctor of Philosophy**, Department of Genetics, the University of
-    Melbourne, Parkville, Australia.  
-    Thesis: [*The functions of cytochrome P450s in
-    Drosophila*.](http://cat.lib.unimelb.edu.au/record=b4827945~S32)  
-    During my Ph.D. I used classical genetics and modern molecular
-    biology, including transgenic manipulation of gene expression and
-    comparative studies of gene function, to investigate the functions
-    of cytochrome P450 genes in the Drosophila genus.
-
-2002–2005
-:   **Bachelor of Science with Honours (first class)**, the University
-    of Melbourne, Parkville, Australia.
-
-Awards
-:   **2006–2009**, Australian Postgraduate Award
 
 Experience {#experience}
 ----------
@@ -126,6 +108,26 @@ Experience {#experience}
 2001–2004
 :   **Laboratory assistant**, Network Pathology, the Austin Hospital,
     Heidelberg, Australia.
+
+Education {#education}
+---------
+
+2006–2012
+:   **Doctor of Philosophy**, Department of Genetics, the University of
+    Melbourne, Parkville, Australia.  
+    Thesis: [*The functions of cytochrome P450s in
+    Drosophila*.](http://cat.lib.unimelb.edu.au/record=b4827945~S32)  
+    During my Ph.D. I used classical genetics and modern molecular
+    biology, including transgenic manipulation of gene expression and
+    comparative studies of gene function, to investigate the functions
+    of cytochrome P450 genes in the Drosophila genus.
+
+2002–2005
+:   **Bachelor of Science with Honours (first class)**, the University
+    of Melbourne, Parkville, Australia.
+
+Awards
+:   **2006–2009**, Australian Postgraduate Award
 
 ### Teaching {#teaching}
 
