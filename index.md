@@ -22,7 +22,7 @@ About me {#about-me}
 
 ### Technical skills {#technical-skills}
 
-My main tools for programming and data analysis are `python` and `R` .
+My main tools for programming and data analysis are `python` and `R`.
 I’m also experienced with `bash` scripting. I visualise and communicate
 my results with `ggplot2`, `markdown`, `pandoc`, `TeX` and a bit of
 `html` & `css`. I use `git`, `snakemake`, `singularity` and `Docker` to
@@ -50,8 +50,10 @@ biology.
 
 Languages
 :   English (native)  
-    German (TELC Level B2)  
-    French (TELC Level B1)
+    German ([TELC
+    Level](https://www.telc.net/en/candidates/cefr-levels.html) B2)  
+    French ([TELC
+    Level](https://www.telc.net/en/candidates/cefr-levels.html) B1)
 
 Nationalities
 :   Australian and British

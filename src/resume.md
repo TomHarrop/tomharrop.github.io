@@ -8,7 +8,6 @@ toc_sticky: true
 # toc_icon: "fas fa-bars"
 ---
 
-
 ----
 
 \mybqstart
@@ -25,7 +24,7 @@ I generate data using 2^nd^- and 3^rd^-generation sequencing.
 
 ### Technical skills
 
-My main tools for programming and data analysis are `python` and `R` .
+My main tools for programming and data analysis are `python` and `R`.
 I'm also experienced with `bash` scripting.
 I visualise and communicate my results with `ggplot2`, `markdown`, `pandoc`, `TeX` and a bit of `html` & `css`.
 I use `git`, `snakemake`, `singularity` and `Docker` to keep my work reproducible.
@@ -46,8 +45,8 @@ I'm interested in research related to agriculture and development, tools and tec
 
 Languages
 :   English (native)  
-    German (TELC Level B2)  
-    French (TELC Level B1)
+    German ([TELC Level](https://www.telc.net/en/candidates/cefr-levels.html) B2)  
+    French ([TELC Level](https://www.telc.net/en/candidates/cefr-levels.html) B1)
 
 Nationalities
 :   Australian and British
@@ -57,14 +56,12 @@ Nationalities
 ### Research positions
 
 2017--Present
-
 :   **Post-doctoral researcher**, Laboratory for Evolution and Development, Biochemistry Department, University of Otago, Dunedin, New Zealand.  
     I am currently working on a project to develop and apply tools to integrate genomic selection to breeding programmes to improve honeybee performance.
 
 2016--2017
-
 :   **Post-doctoral researcher**, Laboratory for Evolution and Development, Biochemistry Department, University of Otago, Dunedin, New Zealand.  
-    In this project, I worked on a bioprotection project investigating the resistance of Argentine stem weevil to its biological control agent.
+    I worked on a bioprotection project investigating the resistance of Argentine stem weevil to its biological control agent.
 
 2014--2016
 :	**Post-doctoral researcher**, UMR DIADE, Institut de Recherche
