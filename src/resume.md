@@ -36,7 +36,7 @@ I'm an experienced molecular biologist.
 I am skilled at the entire wet-lab workflow for producing short and long read sequencing libraries, from nucleic acid extraction to library preparation and running sequencing instruments.
 I have experience with classical genetic approaches with live organisms, including transformation, crosses, microdissection and bioassays.
 
-I've collaborated with research and commercial efforts
+<!-- Collaboration -->
 
 ### Research
 
