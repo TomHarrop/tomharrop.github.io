@@ -95,6 +95,12 @@ Awards
 
 ### Teaching
 
+2020
+:   **GENE412**, Genetics Department, The University of Otago. 
+
+2017--2019
+:   **GENE312** project supervisor, Genetics Department, The University of Otago. 
+
 2007--2011
 :   **3^rd^ Year Genetics**, Department of Genetics, The University of Melbourne, Parkville, Australia.
 
@@ -109,6 +115,9 @@ Awards
 
 ### Students co-supervised
 
+Sarah Robinson
+:   **Bachelor of Science with Honours**, Genetics, University of Otago, Dunedin, New Zealand.
+
 Marissa Le Lec
 :   **Bachelor of Science with Honours**, Genetics, University of Otago, Dunedin, New Zealand.
 
@@ -119,11 +128,35 @@ Axel Verdier
 :   **Master of Science**, Sciences et Technologies de l’Information et de la
 Communication pour la Santé, Université de Montpellier, France.
 
+## Conferences and workshops
+
+Reproducible research
+:   [Reproducible research workflows with containers](https://www.eventbrite.co.nz/e/webinar-reproducible-research-workflows-with-containers-registration-112067063604) webinar for New Zealand eScience Infrastructure (NeSI), 23 July 2020.
+
+Sequencing workshop
+:   Invited instructor for the [Long-read, long-reach sequencing workshop](https://cba.anu.edu.au/news-events/long-read-long-reach-sequencing-workshop).
+November 2019, ANU, Canberra, Australia.
+
+MapNet
+:   Main organiser for the [2018 MapNet conference](https://tomharrop.io/mapnetnz.github.io/). November 2018, Dunedin, New Zealand.
+
+Nanopore workshop
+:  Main organiser for [Genomics Aotearoa's long-read sequencing workshop](https://nanopore-dunedin.github.io/). April 2018, Dunedin, New Zealand.
+
+Carpentries
+:   Assisting instructor for Carpentries workshops: [Data Carpentry, 2019](https://otagocarpentries.github.io/2019-08-28-otago/); [RNA-seq-workshop, 2020](https://github.com/GenomicsAotearoa/RNA-seq-workshop).
+
 ## Publications {#references}
 
 ### Peer-reviewed journals
 
+**Harrop, T.W.R.**^§^, Guhlin, J. ^§^, McLaughlin, G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec. M.F., Gruber, M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford, K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin E.E., Purcell, J., Lester, P.J., Dearden, P.K. (2020). Genome Report: High-quality assemblies for three invasive social wasps from the *Vespula* genus. G3, accepted manuscript.
+
+**Harrop, T.W.R.**, Le Lec, M.F., Jauregui, R., Taylor, S.E., Inwood, S.N., van Stijn, T., Henry, H., Skelly, J., Ganesh, S., Ashby, R.L., Jacobs, J.M.E., Goldson, S.L., Dearden, P.K. (2020). Genetic Diversity in Invasive Populations of Argentine Stem Weevil Associated with Adaptation to Biocontrol. Insects 11 (7): 441. [doi:10.3390/insects11070441](https://doi.org/10.3390/insects11070441).
+
 Morgan, B.M., Brown, A.N., Deo, N., **Harrop, T.W.R.**, Taiaroa, G., Mace, P.D., Wilbanks, S.M., Merriman, T.R., Williams, M.J.A., McCormick, S.P.A. (2020). Nonsynonymous SNPs in *LPA* homologous to plasminogen deficiency mutants represent novel null apo(a) alleles. Journal of Lipid Research 61(3), 432--44. [doi:10.1194/jlr.M094540](https://doi.org/10.1194/jlr.M094540).
+
+Guerrero, F.D., Bendele, K.G., Ghaffarim N., Guhlin, J., Gedye, K.R., Lawrence, K.E., Dearden, **Harrop, T.W.R**, Heath, A.C.G, Lun, Y., Metz, R.P, Teel, P., Perez de Leon, A., Biggs, P.J., Pomroy, W.E., Johnson, C.D., Blood, P.D., Bellgard, S.E., Tompkins, D.M. (2019). The Pacific Biosciences de Novo Assembled Genome Dataset from a Parthenogenetic New Zealand Wild Population of the Longhorned Tick, *Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27 (December): 104602. [doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
 
 Lamichhane, R., Schneider, M., de la Harpe, S.M., **Harrop, T.W.R.**, Hannaway, R.F., Dearden, P.K., Kirman, J.R., Tyndall, J.D.A., Vernall, A.J., and Ussher, J.E. (2019). TCR- or Cytokine-Activated CD8+ Mucosal-Associated Invariant T Cells Are Rapid Polyfunctional Effectors That Can Coordinate Immune Responses. Cell Reports 28, 3061-3076.e5. [doi:10.1016/j.celrep.2019.08.054](https://doi.org/10.1016/j.celrep.2019.08.054).
 
