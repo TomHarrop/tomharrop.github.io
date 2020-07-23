@@ -210,9 +210,9 @@ Publications {#references}
 ### Peer-reviewed journals {#peer-reviewed-journals}
 
 **Harrop, T.W.R.**<sup>§</sup>, Guhlin, J.<sup>§</sup>, McLaughlin,
-G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec. M.F., Gruber,
+G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec, M.F., Gruber,
 M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford,
-K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin E.E.,
+K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin, E.E.,
 Purcell, J., Lester, P.J., Dearden, P.K. (2020). Genome Report:
 High-quality assemblies for three invasive social wasps from the
 *Vespula* genus. G3, accepted manuscript.

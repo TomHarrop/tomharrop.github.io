@@ -150,7 +150,7 @@ Carpentries
 
 ### Peer-reviewed journals
 
-**Harrop, T.W.R.**^§^, Guhlin, J.^§^, McLaughlin, G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec. M.F., Gruber, M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford, K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin E.E., Purcell, J., Lester, P.J., Dearden, P.K. (2020). Genome Report: High-quality assemblies for three invasive social wasps from the *Vespula* genus. G3, accepted manuscript.
+**Harrop, T.W.R.**^§^, Guhlin, J.^§^, McLaughlin, G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec, M.F., Gruber, M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford, K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin, E.E., Purcell, J., Lester, P.J., Dearden, P.K. (2020). Genome Report: High-quality assemblies for three invasive social wasps from the *Vespula* genus. G3, accepted manuscript.
 
 **Harrop, T.W.R.**, Le Lec, M.F., Jauregui, R., Taylor, S.E., Inwood, S.N., van Stijn, T., Henry, H., Skelly, J., Ganesh, S., Ashby, R.L., Jacobs, J.M.E., Goldson, S.L., Dearden, P.K. (2020). Genetic Diversity in Invasive Populations of Argentine Stem Weevil Associated with Adaptation to Biocontrol. Insects 11 (7): 441. [doi:10.3390/insects11070441](https://doi.org/10.3390/insects11070441).
 
