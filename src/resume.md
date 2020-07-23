@@ -93,7 +93,7 @@ pour le Développement (IRD), Montpellier, France.
 Awards
 :   **2006--2009**, Australian Postgraduate Award
 
-### Teaching
+## Teaching
 
 2020
 :   **GENE412**, Genetics Department, The University of Otago. 
@@ -113,7 +113,7 @@ Awards
 2005--2008
 :   **1^st^ Year Genetics**, The University of Melbourne, Parkville, Australia.
 
-### Students co-supervised
+## Students co-supervised
 
 Sarah Robinson
 :   **Bachelor of Science with Honours**, Genetics, University of Otago, Dunedin, New Zealand.
@@ -150,13 +150,13 @@ Carpentries
 
 ### Peer-reviewed journals
 
-**Harrop, T.W.R.**^§^, Guhlin, J. ^§^, McLaughlin, G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec. M.F., Gruber, M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford, K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin E.E., Purcell, J., Lester, P.J., Dearden, P.K. (2020). Genome Report: High-quality assemblies for three invasive social wasps from the *Vespula* genus. G3, accepted manuscript.
+**Harrop, T.W.R.**^§^, Guhlin, J.^§^, McLaughlin, G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec. M.F., Gruber, M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford, K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin E.E., Purcell, J., Lester, P.J., Dearden, P.K. (2020). Genome Report: High-quality assemblies for three invasive social wasps from the *Vespula* genus. G3, accepted manuscript.
 
 **Harrop, T.W.R.**, Le Lec, M.F., Jauregui, R., Taylor, S.E., Inwood, S.N., van Stijn, T., Henry, H., Skelly, J., Ganesh, S., Ashby, R.L., Jacobs, J.M.E., Goldson, S.L., Dearden, P.K. (2020). Genetic Diversity in Invasive Populations of Argentine Stem Weevil Associated with Adaptation to Biocontrol. Insects 11 (7): 441. [doi:10.3390/insects11070441](https://doi.org/10.3390/insects11070441).
 
 Morgan, B.M., Brown, A.N., Deo, N., **Harrop, T.W.R.**, Taiaroa, G., Mace, P.D., Wilbanks, S.M., Merriman, T.R., Williams, M.J.A., McCormick, S.P.A. (2020). Nonsynonymous SNPs in *LPA* homologous to plasminogen deficiency mutants represent novel null apo(a) alleles. Journal of Lipid Research 61(3), 432--44. [doi:10.1194/jlr.M094540](https://doi.org/10.1194/jlr.M094540).
 
-Guerrero, F.D., Bendele, K.G., Ghaffarim N., Guhlin, J., Gedye, K.R., Lawrence, K.E., Dearden, **Harrop, T.W.R**, Heath, A.C.G, Lun, Y., Metz, R.P, Teel, P., Perez de Leon, A., Biggs, P.J., Pomroy, W.E., Johnson, C.D., Blood, P.D., Bellgard, S.E., Tompkins, D.M. (2019). The Pacific Biosciences de Novo Assembled Genome Dataset from a Parthenogenetic New Zealand Wild Population of the Longhorned Tick, *Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27 (December): 104602. [doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
+Guerrero, F.D., Bendele, K.G., Ghaffarim N., Guhlin, J., Gedye, K.R., Lawrence, K.E., Dearden, **Harrop, T.W.R.**, Heath, A.C.G, Lun, Y., Metz, R.P, Teel, P., Perez de Leon, A., Biggs, P.J., Pomroy, W.E., Johnson, C.D., Blood, P.D., Bellgard, S.E., Tompkins, D.M. (2019). The Pacific Biosciences de Novo Assembled Genome Dataset from a Parthenogenetic New Zealand Wild Population of the Longhorned Tick, *Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27 (December): 104602. [doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
 
 Lamichhane, R., Schneider, M., de la Harpe, S.M., **Harrop, T.W.R.**, Hannaway, R.F., Dearden, P.K., Kirman, J.R., Tyndall, J.D.A., Vernall, A.J., and Ussher, J.E. (2019). TCR- or Cytokine-Activated CD8+ Mucosal-Associated Invariant T Cells Are Rapid Polyfunctional Effectors That Can Coordinate Immune Responses. Cell Reports 28, 3061-3076.e5. [doi:10.1016/j.celrep.2019.08.054](https://doi.org/10.1016/j.celrep.2019.08.054).
 
@@ -180,7 +180,7 @@ Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S., Morin, S
 
 ### Book chapters
 
-Cridge, A., **Harrop, T. W. R.**, Lovegrove, M., Remnant, E. & Dearden, P. (2017). *Nutrition and Epigenetic Change in Insects: Evidence and Implications*, in Advances in Insect Physiology (ed. Verlinden, H.) 53, 31–54 (Academic Press). [doi:10.1016/bs.aiip.2017.06.001](http://www.sciencedirect.com/science/article/pii/S006528061730022X)
+Cridge, A., **Harrop, T.W.R.**, Lovegrove, M., Remnant, E. & Dearden, P. (2017). *Nutrition and Epigenetic Change in Insects: Evidence and Implications*, in Advances in Insect Physiology (ed. Verlinden, H.) 53, 31–54 (Academic Press). [doi:10.1016/bs.aiip.2017.06.001](http://www.sciencedirect.com/science/article/pii/S006528061730022X)
 
 ### Selected scientific presentations
 

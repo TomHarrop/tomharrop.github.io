@@ -128,7 +128,8 @@ Education {#education}
 Awards
 :   **2006–2009**, Australian Postgraduate Award
 
-### Teaching {#teaching}
+Teaching {#teaching}
+--------
 
 2020
 :   **GENE412**, Genetics Department, The University of Otago.
@@ -153,7 +154,8 @@ Awards
 :   **1<sup>st</sup> Year Genetics**, The University of Melbourne,
     Parkville, Australia.
 
-### Students co-supervised {#students-co-supervised}
+Students co-supervised {#students-co-supervised}
+----------------------
 
 Sarah Robinson
 :   **Bachelor of Science with Honours**, Genetics, University of Otago,
@@ -207,7 +209,7 @@ Publications {#references}
 
 ### Peer-reviewed journals {#peer-reviewed-journals}
 
-**Harrop, T.W.R.**<sup>§</sup>, Guhlin, J. <sup>§</sup>, McLaughlin,
+**Harrop, T.W.R.**<sup>§</sup>, Guhlin, J.<sup>§</sup>, McLaughlin,
 G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec. M.F., Gruber,
 M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford,
 K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin E.E.,
@@ -230,12 +232,13 @@ Research 61(3), 432–44.
 [doi:10.1194/jlr.M094540](https://doi.org/10.1194/jlr.M094540).
 
 Guerrero, F.D., Bendele, K.G., Ghaffarim N., Guhlin, J., Gedye, K.R.,
-Lawrence, K.E., Dearden, **Harrop, T.W.R**, Heath, A.C.G, Lun, Y., Metz,
-R.P, Teel, P., Perez de Leon, A., Biggs, P.J., Pomroy, W.E., Johnson,
-C.D., Blood, P.D., Bellgard, S.E., Tompkins, D.M. (2019). The Pacific
-Biosciences de Novo Assembled Genome Dataset from a Parthenogenetic New
-Zealand Wild Population of the Longhorned Tick, *Haemaphysalis
-longicornis* Neumann, 1901. Data in Brief 27 (December): 104602.
+Lawrence, K.E., Dearden, **Harrop, T.W.R.**, Heath, A.C.G, Lun, Y.,
+Metz, R.P, Teel, P., Perez de Leon, A., Biggs, P.J., Pomroy, W.E.,
+Johnson, C.D., Blood, P.D., Bellgard, S.E., Tompkins, D.M. (2019). The
+Pacific Biosciences de Novo Assembled Genome Dataset from a
+Parthenogenetic New Zealand Wild Population of the Longhorned Tick,
+*Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27 (December):
+104602.
 [doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
 
 Lamichhane, R., Schneider, M., de la Harpe, S.M., **Harrop, T.W.R.**,
@@ -302,8 +305,8 @@ Molecular Biology 42, 918–924.
 
 ### Book chapters {#book-chapters}
 
-Cridge, A., **Harrop, T. W. R.**, Lovegrove, M., Remnant, E. & Dearden,
-P. (2017). *Nutrition and Epigenetic Change in Insects: Evidence and
+Cridge, A., **Harrop, T.W.R.**, Lovegrove, M., Remnant, E. & Dearden, P.
+(2017). *Nutrition and Epigenetic Change in Insects: Evidence and
 Implications*, in Advances in Insect Physiology (ed. Verlinden, H.) 53,
 31–54 (Academic Press).
 [doi:10.1016/bs.aiip.2017.06.001](http://www.sciencedirect.com/science/article/pii/S006528061730022X)
