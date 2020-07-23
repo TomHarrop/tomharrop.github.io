@@ -231,16 +231,6 @@ deficiency mutants represent novel null apo(a) alleles. Journal of Lipid
 Research 61(3), 432–44.
 [doi:10.1194/jlr.M094540](https://doi.org/10.1194/jlr.M094540).
 
-Guerrero, F.D., Bendele, K.G., Ghaffarim N., Guhlin, J., Gedye, K.R.,
-Lawrence, K.E., Dearden, **Harrop, T.W.R.**, Heath, A.C.G, Lun, Y.,
-Metz, R.P, Teel, P., Perez de Leon, A., Biggs, P.J., Pomroy, W.E.,
-Johnson, C.D., Blood, P.D., Bellgard, S.E., Tompkins, D.M. (2019). The
-Pacific Biosciences de Novo Assembled Genome Dataset from a
-Parthenogenetic New Zealand Wild Population of the Longhorned Tick,
-*Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27 (December):
-104602.
-[doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
-
 Lamichhane, R., Schneider, M., de la Harpe, S.M., **Harrop, T.W.R.**,
 Hannaway, R.F., Dearden, P.K., Kirman, J.R., Tyndall, J.D.A., Vernall,
 A.J., and Ussher, J.E. (2019). TCR- or Cytokine-Activated CD8+
@@ -254,12 +244,13 @@ associated with inflorescence branching and architecture in domesticated
 rice. Journal of Experimental Botany 70, 5617–5629.
 [doi:10.1093/jxb/erz340](https://doi.org/10.1093/jxb/erz340).
 
-Guerrero, F.D., Bendele, K.G., Ghaffari, N., Guhlin, J., Gedye, K.R.,
-Lawrence, K.E., Dearden, P.K., **Harrop, T.W.R.**, Heath, A.C.G., Lun,
-Y., et al. (2019). The Pacific Biosciences *de novo* assembled genome
-dataset from a parthenogenetic New Zealand wild population of the
-longhorned tick, *Haemaphysalis longicornis* Neumann, 1901. Data in
-Brief 27, 104602.
+Guerrero, F.D., Bendele, K.G., Ghaffarim N., Guhlin, J., Gedye, K.R.,
+Lawrence, K.E., Dearden, **Harrop, T.W.R.**, Heath, A.C.G, Lun, Y.,
+Metz, R.P, Teel, P., Perez de Leon, A., Biggs, P.J., Pomroy, W.E.,
+Johnson, C.D., Blood, P.D., Bellgard, S.E., Tompkins, D.M. (2019). The
+Pacific Biosciences *de novo* assembled genome dataset from a
+parthenogenetic New Zealand wild population of the longhorned tick,
+*Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27, 104602.
 [doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
 
 **Harrop, T.W.**<sup>§</sup>, Denecke, S.<sup>§</sup>, Yang, Y.T., Chan,
