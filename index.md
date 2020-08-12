@@ -26,10 +26,10 @@ My main tools for programming and data analysis are `python` and `R`.
 I’m also experienced with `bash` scripting. I visualise and communicate
 my results with `ggplot2`, `markdown`, `pandoc`, `TeX` and a bit of
 `html` & `css`. I use `git`, `snakemake`, `singularity` and `Docker` to
-keep my work reproducible. I’ve used workflow managers (`SLURM`, `LSF`
-and `SGE`) for managing jobs in high-performance computing environments.
-I’m comfortable working with, installing and administrating \*nix
-operating systems (`Linux`, `macOS` and `FreeBSD`).
+keep my work reproducible. I’ve used job schedulers (`SLURM`, `LSF` and
+`SGE`) for managing jobs in high-performance computing environments. I’m
+comfortable working with, installing and administrating \*nix operating
+systems (`Linux`, `macOS` and `FreeBSD`).
 
 I’m an experienced molecular biologist. I am skilled at the entire
 wet-lab workflow for producing short and long read sequencing libraries,
