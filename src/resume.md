@@ -55,9 +55,14 @@ Nationalities
 
 ### Research positions
 
-2017--Present
+
+2020--Present
+:   **Research Fellow**, Biochemistry Department, University of Otago, Dunedin, New Zealand.  
+    In my current position I am developing an independent genomics and bioinformatics research program.
+    
+2017--2020
 :   **Post-doctoral researcher**, Laboratory for Evolution and Development, Biochemistry Department, University of Otago, Dunedin, New Zealand.  
-    I am currently working on a project to develop and apply tools to integrate genomic selection to breeding programmes to improve honeybee performance.
+    In this postdoc position I worked on a project to develop and apply tools to integrate genomic selection to breeding programmes to improve honeybee performance.
 
 2016--2017
 :   **Post-doctoral researcher**, Laboratory for Evolution and Development, Biochemistry Department, University of Otago, Dunedin, New Zealand.  
@@ -150,7 +155,7 @@ Carpentries
 
 ### Peer-reviewed journals
 
-**Harrop, T.W.R.**^§^, Guhlin, J.^§^, McLaughlin, G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec, M.F., Gruber, M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford, K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin, E.E., Purcell, J., Lester, P.J., Dearden, P.K. (2020). Genome Report: High-quality assemblies for three invasive social wasps from the *Vespula* genus. G3, accepted manuscript.
+**Harrop, T.W.R.**^§^, Guhlin, J.^§^, McLaughlin, G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec, M.F., Gruber, M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford, K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin, E.E., Purcell, J., Lester, P.J., Dearden, P.K. (2020). High-quality assemblies for three invasive social wasps from the *Vespula* genus. G3: Genes, Genomes, Genetics (in press). [doi:10.1534/g3.120.401579](https://www.g3journal.org/content/early/2020/08/28/g3.120.401579).
 
 **Harrop, T.W.R.**, Le Lec, M.F., Jauregui, R., Taylor, S.E., Inwood, S.N., van Stijn, T., Henry, H., Skelly, J., Ganesh, S., Ashby, R.L., Jacobs, J.M.E., Goldson, S.L., Dearden, P.K. (2020). Genetic Diversity in Invasive Populations of Argentine Stem Weevil Associated with Adaptation to Biocontrol. Insects 11 (7): 441. [doi:10.3390/insects11070441](https://doi.org/10.3390/insects11070441).
 
