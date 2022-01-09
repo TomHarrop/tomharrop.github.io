@@ -17,8 +17,7 @@ sequencing.
 
 ------------------------------------------------------------------------
 
-About me {#about-me}
---------
+## About me {#about-me}
 
 ### Technical skills {#technical-skills}
 
@@ -58,16 +57,22 @@ Languages
 Nationalities
 :   Australian and British
 
-Experience {#experience}
-----------
+## Experience {#experience}
 
-### Research positions {#research-positions}
+### Research & University positions {#research-university-positions}
 
-2020–Present
+2021–Present
+:   **Academic Specialist (B)**, Melbourne Bioinformatics, University of
+    Melbourne, Australia.  
+    In my current position, I provide training and support to
+    researchers and projects using bioinformatics in Melbourne’s
+    biosciences precinct.
+
+2020–2021
 :   **Research Fellow**, Biochemistry Department, University of Otago,
     Dunedin, New Zealand.  
-    In my current position I am developing an independent genomics and
-    bioinformatics research program.
+    After promotion to Research Fellow, I began developing an
+    independent genomics and bioinformatics research program.
 
 2017–2020
 :   **Post-doctoral researcher**, Laboratory for Evolution and
@@ -87,13 +92,11 @@ Experience {#experience}
 2014–2016
 :   **Post-doctoral researcher**, UMR DIADE, Institut de Recherche pour
     le Développement (IRD), Montpellier, France.  
-    I used machine learning, data mining, statistical analyses and other
-    bioinformatic techniques to study the development of inflorescence
-    architecture in rice, which affects crop yield. We used laser
-    microdissection and RNA sequencing to characterise molecular events
-    that occur in the developing inflorescence, and applied these
-    results to study the effects of selection on gene expression during
-    the parallel domestications of African and Asian rice.
+    We used RNA sequencing to characterise molecular events that occur
+    during development of inflorescence architecture in rice, which
+    affects crop yield, and applied these results to study the effects
+    of selection on gene expression during the parallel domestications
+    of African and Asian rice.
 
 2013–2014
 :   **Post-doctoral researcher**, Department of Plant Breeding and
@@ -114,8 +117,7 @@ Experience {#experience}
 :   **Laboratory assistant**, Network Pathology, the Austin Hospital,
     Heidelberg, Australia.
 
-Education {#education}
----------
+## Education {#education}
 
 2006–2012
 :   **Doctor of Philosophy**, Department of Genetics, the University of
@@ -134,8 +136,13 @@ Education {#education}
 Awards
 :   **2006–2009**, Australian Postgraduate Award
 
-Teaching {#teaching}
---------
+## Teaching {#teaching}
+
+2021
+:   **COMP90014**: Algorithms for Bioinformatics. Subject coordinator
+    and lecturer.
+:   **BINF90002** & **COMP90016** guest lecturer, Masters of
+    Bioinformatics, The University of Melbourne.
 
 2020
 :   **GENE412**, Genetics Department, The University of Otago.
@@ -160,8 +167,7 @@ Teaching {#teaching}
 :   **1<sup>st</sup> Year Genetics**, The University of Melbourne,
     Parkville, Australia.
 
-Students co-supervised {#students-co-supervised}
-----------------------
+## Students co-supervised {#students-co-supervised}
 
 Sarah Robinson
 :   **Bachelor of Science with Honours**, Genetics, University of Otago,
@@ -180,14 +186,23 @@ Axel Verdier
     de la Communication pour la Santé, Université de Montpellier,
     France.
 
-Conferences and workshops {#conferences-and-workshops}
--------------------------
+## Service {#service}
+
+Community group
+:   Founder and convenor of the *Bioinformaticians’ Shed*, for people
+    using bioinformatics around the Parkville precinct, hosted by
+    Melbourne Bioinformatics.
+
+RNA-seq
+:   [From reads to differentially expressed
+    genes](https://www.biocommons.org.au/events/rnaseq) workshop for
+    Australian BioCommons, 23–24 February 2021.
 
 Reproducible research
 :   [Reproducible research workflows with
     containers](https://www.eventbrite.co.nz/e/webinar-reproducible-research-workflows-with-containers-registration-112067063604)
-    webinar for New Zealand eScience Infrastructure (NeSI), 23
-    July 2020.
+    webinar for New Zealand eScience Infrastructure (NeSI), 23 July
+    2020.
 
 Sequencing workshop
 :   Invited instructor for the [Long-read, long-reach sequencing
@@ -210,8 +225,7 @@ Carpentries
     [RNA-seq-workshop,
     2020](https://github.com/GenomicsAotearoa/RNA-seq-workshop).
 
-Publications {#references}
-------------
+## Publications {#references}
 
 ### Peer-reviewed journals {#peer-reviewed-journals}
 
@@ -231,47 +245,17 @@ in Invasive Populations of Argentine Stem Weevil Associated with
 Adaptation to Biocontrol. Insects 11 (7): 441.
 [doi:10.3390/insects11070441](https://doi.org/10.3390/insects11070441).
 
-Morgan, B.M., Brown, A.N., Deo, N., **Harrop, T.W.R.**, Taiaroa, G.,
-Mace, P.D., Wilbanks, S.M., Merriman, T.R., Williams, M.J.A., McCormick,
-S.P.A. (2020). Nonsynonymous SNPs in *LPA* homologous to plasminogen
-deficiency mutants represent novel null apo(a) alleles. Journal of Lipid
-Research 61(3), 432–44.
-[doi:10.1194/jlr.M094540](https://doi.org/10.1194/jlr.M094540).
-
-Lamichhane, R., Schneider, M., de la Harpe, S.M., **Harrop, T.W.R.**,
-Hannaway, R.F., Dearden, P.K., Kirman, J.R., Tyndall, J.D.A., Vernall,
-A.J., and Ussher, J.E. (2019). TCR- or Cytokine-Activated CD8+
-Mucosal-Associated Invariant T Cells Are Rapid Polyfunctional Effectors
-That Can Coordinate Immune Responses. Cell Reports 28, 3061-3076.e5.
-[doi:10.1016/j.celrep.2019.08.054](https://doi.org/10.1016/j.celrep.2019.08.054).
-
 **Harrop, T.W.R.**, Mantegazza, O., Luong, A.M., Béthune, K., Lorieux,
 M., Jouannic, S., and Adam, H. (2019). A set of *AP2*-like genes is
 associated with inflorescence branching and architecture in domesticated
 rice. Journal of Experimental Botany 70, 5617–5629.
 [doi:10.1093/jxb/erz340](https://doi.org/10.1093/jxb/erz340).
 
-Guerrero, F.D., Bendele, K.G., Ghaffarim N., Guhlin, J., Gedye, K.R.,
-Lawrence, K.E., Dearden, **Harrop, T.W.R.**, Heath, A.C.G, Lun, Y.,
-Metz, R.P, Teel, P., Perez de Leon, A., Biggs, P.J., Pomroy, W.E.,
-Johnson, C.D., Blood, P.D., Bellgard, S.E., Tompkins, D.M. (2019). The
-Pacific Biosciences *de novo* assembled genome dataset from a
-parthenogenetic New Zealand wild population of the longhorned tick,
-*Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27, 104602.
-[doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
-
 **Harrop, T.W.**<sup>§</sup>, Denecke, S.<sup>§</sup>, Yang, Y.T., Chan,
 J., Daborn, P.J., Perry, T., Batterham, P., (2018). Evidence for
 activation of nitenpyram by a mitochondrial cytochrome P450 in
 *Drosophila melanogaster*. Pest Management Science 74, 1616–1622.
 [doi:10.1002/ps.4852](https://doi.org/10.1002/ps.4852).
-
-Ta, K. N., Adam. H., Staedler, Y.M., Schönenberger, J., **Harrop.
-T.W.R.**, Tregear, J., Do, N.V.,Gantet, P., Ghesquière, A., and
-Jouannic, S. (2017). Differences in meristem size and expression of
-branching genes are associated with variation in panicle phenotype in
-wild and domesticated African rice. EvoDevo 8: 2.
-[doi:10.1186/s13227-017-0065-y](http://dx.doi.org/10.1186/s13227-017-0065-y).
 
 **Harrop, T.W.R.**<sup>§</sup>, Ud Din, I.<sup>§</sup>, Gregis, V.,
 Osnato, M., Jouannic, S., Adam, H. and Kater, M. (2016). Gene expression
@@ -292,14 +276,58 @@ contribute to resistance to multiple insecticides in Drosophila. Plos
 One 9, e84879.
 [doi:10.1371/journal.pone.0084879](http://dx.plos.org/10.1371/journal.pone.0084879).
 
+<sup>§</sup> Equal contribution
+
+### Peer-reviewed journals (contributing author) {#peer-reviewed-journals-contributing-author}
+
+McCulloch, G.A., Foster, B.J., Dutoit, L., **Harrop, T.W.R.**, Guhlin,
+J., Dearden, P.K., Waters, J.M. (2020). Genomics Reveals Widespread
+Ecological Speciation in Flightless Insects. Systematic Biology syaa094.
+[doi:10.1093/sysbio/syaa094](https://doi.org/10.1093/sysbio/syaa094).
+
+Lamichhane, R., Munro, F., **Harrop, T.W.R.**, de la Harpe, S.M.,
+Dearden, P.K., Vernall, A.J., McCall, J.L., Ussher, J.E. (2020). Human
+liver‐derived MAIT cells differ from blood MAIT cells in their
+metabolism and response to TCR‐independent activation. European Journal
+of Immunology 51: 879–892.
+[doi:10.1002/eji.202048830](https://doi.org/10.1002/eji.202048830).
+
+Morgan, B.M., Brown, A.N., Deo, N., **Harrop, T.W.R.**, Taiaroa, G.,
+Mace, P.D., Wilbanks, S.M., Merriman, T.R., Williams, M.J.A., McCormick,
+S.P.A. (2020). Nonsynonymous SNPs in *LPA* homologous to plasminogen
+deficiency mutants represent novel null apo(a) alleles. Journal of Lipid
+Research 61(3), 432–44.
+[doi:10.1194/jlr.M094540](https://doi.org/10.1194/jlr.M094540).
+
+Lamichhane, R., Schneider, M., de la Harpe, S.M., **Harrop, T.W.R.**,
+Hannaway, R.F., Dearden, P.K., Kirman, J.R., Tyndall, J.D.A., Vernall,
+A.J., and Ussher, J.E. (2019). TCR- or Cytokine-Activated CD8+
+Mucosal-Associated Invariant T Cells Are Rapid Polyfunctional Effectors
+That Can Coordinate Immune Responses. Cell Reports 28, 3061-3076.e5.
+[doi:10.1016/j.celrep.2019.08.054](https://doi.org/10.1016/j.celrep.2019.08.054).
+
+Guerrero, F.D., Bendele, K.G., Ghaffarim N., Guhlin, J., Gedye, K.R.,
+Lawrence, K.E., Dearden, **Harrop, T.W.R.**, Heath, A.C.G, Lun, Y.,
+Metz, R.P, Teel, P., Perez de Leon, A., Biggs, P.J., Pomroy, W.E.,
+Johnson, C.D., Blood, P.D., Bellgard, S.E., Tompkins, D.M. (2019). The
+Pacific Biosciences *de novo* assembled genome dataset from a
+parthenogenetic New Zealand wild population of the longhorned tick,
+*Haemaphysalis longicornis* Neumann, 1901. Data in Brief 27, 104602.
+[doi:10.1016/j.dib.2019.104602](https://doi.org/10.1016/j.dib.2019.104602).
+
+Ta, K. N., Adam. H., Staedler, Y.M., Schönenberger, J., **Harrop.
+T.W.R.**, Tregear, J., Do, N.V.,Gantet, P., Ghesquière, A., and
+Jouannic, S. (2017). Differences in meristem size and expression of
+branching genes are associated with variation in panicle phenotype in
+wild and domesticated African rice. EvoDevo 8: 2.
+[doi:10.1186/s13227-017-0065-y](http://dx.doi.org/10.1186/s13227-017-0065-y).
+
 Daborn, P.J., Lumb, C., **Harrop, T.W.R.**, Blasetti, A., Pasricha, S.,
 Morin, S., Mitchell, S.N., Donnelly, M.J., Müller, P. and Batterham, P.
 (2012). Using *Drosophila melanogaster* to validate metabolism-based
 insecticide resistance from insect pests. Insect Biochemistry and
 Molecular Biology 42, 918–924.
 [doi:10.1016/j.ibmb.2012.09.003](http://linkinghub.elsevier.com/retrieve/pii/S0965174812001269).
-
-<sup>§</sup> Equal contribution
 
 ### Book chapters {#book-chapters}
 
@@ -310,6 +338,9 @@ Implications*, in Advances in Insect Physiology (ed. Verlinden, H.) 53,
 [doi:10.1016/bs.aiip.2017.06.001](http://www.sciencedirect.com/science/article/pii/S006528061730022X)
 
 ### Selected scientific presentations {#selected-scientific-presentations}
+
+*Genetic diversity and biocontrol in Argentine stem weevils*. Genomics
+Aotearoa seminar series, New Zealand, 2021.
 
 *The genomes of three invasive social wasps*. **Oral presentation** at
 the Annual Conference of the Genetics Society of Australasia (GSA),
