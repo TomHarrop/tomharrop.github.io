@@ -192,7 +192,7 @@ Carpentries
 
 ^§^ Equal contribution
 
-### Peer-reviewed journals (contributing author)
+### Contributions to peer-reviewed publications
 
 McCulloch, G.A., Foster, B.J., Dutoit, L., **Harrop, T.W.R.**, Guhlin, J., Dearden, P.K., Waters, J.M. (2020). Genomics Reveals Widespread Ecological Speciation in Flightless Insects. Systematic Biology syaa094. [doi:10.1093/sysbio/syaa094](https://doi.org/10.1093/sysbio/syaa094).
 

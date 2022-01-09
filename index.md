@@ -278,7 +278,7 @@ One 9, e84879.
 
 <sup>§</sup> Equal contribution
 
-### Peer-reviewed journals (contributing author) {#peer-reviewed-journals-contributing-author}
+### Contributions to peer-reviewed publications {#contributions-to-peer-reviewed-publications}
 
 McCulloch, G.A., Foster, B.J., Dutoit, L., **Harrop, T.W.R.**, Guhlin,
 J., Dearden, P.K., Waters, J.M. (2020). Genomics Reveals Widespread
