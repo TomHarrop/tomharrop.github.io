@@ -128,10 +128,10 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/tom-harrop-41893011a"
-    - label: "  "
+    - label: ""
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/twharrop"
-    - label: "TWR Harrop"
+    - label: ""
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=WEstgDcAAAAJ&hl=en"
 
