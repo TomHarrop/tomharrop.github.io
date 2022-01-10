@@ -173,7 +173,7 @@ Carpentries
 
 ## Publications {#references}
 
-### Peer-reviewed journals
+### Journal articles
 
 **Harrop, T.W.R.**^§^, Guhlin, J.^§^, McLaughlin, G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec, M.F., Gruber, M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford, K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin, E.E., Purcell, J., Lester, P.J., Dearden, P.K. (2020). High-quality assemblies for three invasive social wasps from the *Vespula* genus. G3: Genes, Genomes, Genetics 10 (10): 3479--3488. [doi:10.1534/g3.120.401579](https://doi.org/10.1534/g3.120.401579).
 
@@ -192,7 +192,7 @@ Carpentries
 
 ^§^ Equal contribution
 
-### Contributions to peer-reviewed publications
+### Contributions to articles
 
 McCulloch, G.A., Guhlin, J., Dutoit, L., **Harrop, T.W.R.**, Dearden  P.K., and Waters, J.M. (2021). Genomic Signatures of Parallel Alpine Adaptation in Recently Evolved Flightless Insects. Molecular Ecology 30 (24): 6677--86. [doi:10.1111/mec.16204](https://doi.org/10.1111/mec.16204).
 

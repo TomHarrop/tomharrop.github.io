@@ -229,7 +229,7 @@ Carpentries
 
 ## Publications {#references}
 
-### Peer-reviewed journals {#peer-reviewed-journals}
+### Journal articles {#journal-articles}
 
 **Harrop, T.W.R.**<sup>§</sup>, Guhlin, J.<sup>§</sup>, McLaughlin,
 G.M., Permina, E., Stockwell, P., Gilligan, J., Le Lec, M.F., Gruber,
@@ -280,7 +280,7 @@ One 9, e84879.
 
 <sup>§</sup> Equal contribution
 
-### Contributions to peer-reviewed publications {#contributions-to-peer-reviewed-publications}
+### Contributions to articles {#contributions-to-articles}
 
 McCulloch, G.A., Guhlin, J., Dutoit, L., **Harrop, T.W.R.**, Dearden
 P.K., and Waters, J.M. (2021). Genomic Signatures of Parallel Alpine
