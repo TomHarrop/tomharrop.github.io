@@ -139,10 +139,11 @@ Awards
 ## Teaching {#teaching}
 
 2021
-:   **COMP90014**: Algorithms for Bioinformatics. Subject coordinator
-    and lecturer.
-:   **BINF90002** & **COMP90016** guest lecturer, Masters of
-    Bioinformatics, The University of Melbourne.
+:   **COMP90014, Algorithms for Bioinformatics**, Masters of
+    Bioinformatics, The University of Melbourne. Subject coordinator and
+    lecturer.
+:   **BINF90002, Elements of Bioinformatics** & **COMP90016,
+    Computational Genomics**. Guest lecturer.
 
 2020
 :   **GENE412**, Genetics Department, The University of Otago.
@@ -189,9 +190,10 @@ Axel Verdier
 ## Service {#service}
 
 Community group
-:   Founder and convenor of the *Bioinformaticians’ Shed*, for people
-    using bioinformatics around the Parkville precinct, hosted by
-    Melbourne Bioinformatics.
+:   Founder and convenor of the [*Bioinformaticians’
+    Shed*](https://www.melbournebioinformatics.org.au/news/the-toolshed/),
+    for people using bioinformatics around the Parkville precinct,
+    hosted by Melbourne Bioinformatics.
 
 RNA-seq
 :   [From reads to differentially expressed
@@ -235,8 +237,8 @@ M.A.M., Quinn, O., Lovegrove, M., Duncan, E.J., Remnant E.J., Langford,
 K.L., Kronenberg, Z., Press, M.O., Eacker, S.M., Wilson-Rankin, E.E.,
 Purcell, J., Lester, P.J., Dearden, P.K. (2020). High-quality assemblies
 for three invasive social wasps from the *Vespula* genus. G3: Genes,
-Genomes, Genetics (in press).
-[doi:10.1534/g3.120.401579](https://www.g3journal.org/content/early/2020/08/28/g3.120.401579).
+Genomes, Genetics 10 (10): 3479–3488.
+[doi:10.1534/g3.120.401579](https://doi.org/10.1534/g3.120.401579).
 
 **Harrop, T.W.R.**, Le Lec, M.F., Jauregui, R., Taylor, S.E., Inwood,
 S.N., van Stijn, T., Henry, H., Skelly, J., Ganesh, S., Ashby, R.L.,
@@ -251,8 +253,8 @@ associated with inflorescence branching and architecture in domesticated
 rice. Journal of Experimental Botany 70, 5617–5629.
 [doi:10.1093/jxb/erz340](https://doi.org/10.1093/jxb/erz340).
 
-**Harrop, T.W.**<sup>§</sup>, Denecke, S.<sup>§</sup>, Yang, Y.T., Chan,
-J., Daborn, P.J., Perry, T., Batterham, P., (2018). Evidence for
+**Harrop, T.W.R.**<sup>§</sup>, Denecke, S.<sup>§</sup>, Yang, Y.T.,
+Chan, J., Daborn, P.J., Perry, T., Batterham, P., (2018). Evidence for
 activation of nitenpyram by a mitochondrial cytochrome P450 in
 *Drosophila melanogaster*. Pest Management Science 74, 1616–1622.
 [doi:10.1002/ps.4852](https://doi.org/10.1002/ps.4852).
@@ -280,8 +282,8 @@ One 9, e84879.
 
 ### Contributions to peer-reviewed publications {#contributions-to-peer-reviewed-publications}
 
-McCulloch, G.A., Guhlin, J., Dutoit, L., Harrop, T.W.R., Dearden P.K.,
-and Waters, J.M. (2021). Genomic Signatures of Parallel Alpine
+McCulloch, G.A., Guhlin, J., Dutoit, L., **Harrop, T.W.R.**, Dearden
+P.K., and Waters, J.M. (2021). Genomic Signatures of Parallel Alpine
 Adaptation in Recently Evolved Flightless Insects. Molecular Ecology 30
 (24): 6677–86.
 [doi:10.1111/mec.16204](https://doi.org/10.1111/mec.16204).
