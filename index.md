@@ -9,11 +9,11 @@ toc_sticky: true
 ---
 ------------------------------------------------------------------------
 
-I work with large-scale genetic, genomic and transcriptomic datasets.  
-I use `R` and `python` to tidy, analyse and visualise data and
-communicate results.  
+I am a geneticist working with large-scale genomic and transcriptomic
+datasets.  
 I generate data using 2<sup>nd</sup>- and 3<sup>rd</sup>-generation
-sequencing.
+sequencing. I use `R` and `python` to tidy, analyse and visualise data
+and communicate results.
 
 ------------------------------------------------------------------------
 
@@ -21,22 +21,24 @@ sequencing.
 
 ### Technical skills {#technical-skills}
 
+I’m an experienced geneticist and molecular biologist. I work on
+research I’ve developed myself, and in collaboration with internal,
+external and commercial research partners.
+
+I am skilled at the entire wet-lab workflow for producing short and long
+read sequencing libraries, from nucleic acid extraction to library
+preparation and running sequencing instruments. I have experience with
+classical genetic approaches with live organisms, including
+transformation, crosses, microdissection and bioassays.
+
 My main tools for programming and data analysis are Python and R. I’m
 also experienced with bash scripting. I visualise and communicate my
-results with ggplot2, Markdown, Pandoc, TeX and a bit of html & css. I
-use git, Snakemake, Singularity and Docker to keep my work reproducible.
-I’ve used job schedulers like SLURM, LSF and SGE for managing jobs in
-high-performance computing environments. I’m comfortable working with,
-installing and administrating \*nix operating systems (Linux, macOS and
-FreeBSD).
+results with ggplot2, Markdown, Pandoc, TeX and a bit of html & css.
 
-I’m an experienced molecular biologist. I am skilled at the entire
-wet-lab workflow for producing short and long read sequencing libraries,
-from nucleic acid extraction to library preparation and running
-sequencing instruments. I have experience with classical genetic
-approaches with live organisms, including transformation, crosses,
-microdissection and bioassays.
-
+<!-- I use git, Snakemake, Singularity and Docker to keep my work reproducible.
+I've used job schedulers like SLURM, LSF and SGE for managing jobs in high-performance computing environments.
+I'm comfortable working with, installing and administrating *nix operating systems (Linux, macOS and FreeBSD).
+ -->
 <!-- Collaboration -->
 
 ### Research {#research}
@@ -44,18 +46,6 @@ microdissection and bioassays.
 I’m interested in research related to agriculture and development, tools
 and techniques in bioinformatics and evolutionary and comparative
 biology.
-
-### Personal information {#personal-information}
-
-Languages
-:   English (native)  
-    German ([TELC
-    Level](https://www.telc.net/en/candidates/cefr-levels.html) B2)  
-    French ([TELC
-    Level](https://www.telc.net/en/candidates/cefr-levels.html) B1)
-
-Nationalities
-:   Australian and British
 
 ## Experience {#experience}
 
@@ -136,9 +126,21 @@ Nationalities
 Awards
 :   **2006–2009**, Australian Postgraduate Award
 
+## Personal information {#personal-information}
+
+Languages
+:   English (native)  
+    German ([TELC
+    Level](https://www.telc.net/en/candidates/cefr-levels.html) B2)  
+    French ([TELC
+    Level](https://www.telc.net/en/candidates/cefr-levels.html) B1)
+
+Nationalities
+:   Australian and British
+
 ## Teaching {#teaching}
 
-2021
+2021-present
 :   **COMP90014, Algorithms for Bioinformatics**, Masters of
     Bioinformatics, The University of Melbourne. Subject coordinator and
     lecturer.
@@ -168,7 +170,11 @@ Awards
 :   **1<sup>st</sup> Year Genetics**, The University of Melbourne,
     Parkville, Australia.
 
-## Students co-supervised {#students-co-supervised}
+## Students (co-)supervised {#students-co-supervised}
+
+Current
+:   Three students, **Masters of Science (Bioinformatics)** University
+    of Melbourne.
 
 Sarah Robinson
 :   **Bachelor of Science with Honours**, Genetics, University of Otago,
@@ -228,6 +234,10 @@ Carpentries
     2020](https://github.com/GenomicsAotearoa/RNA-seq-workshop).
 
 ## Publications {#references}
+
+See my [Google
+scholar](https://scholar.google.com/citations?user=WEstgDcAAAAJ&hl=en)
+profile for the latest list.
 
 ### Journal articles {#journal-articles}
 

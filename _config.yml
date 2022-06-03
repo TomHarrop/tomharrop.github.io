@@ -107,8 +107,10 @@ author:
     - label: "TWR Harrop"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=WEstgDcAAAAJ&hl=en"
-
-      
+    - label: "0000-0001-6557-0440"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0001-6557-0440"
+    
 
 # Site Footer
 footer:
