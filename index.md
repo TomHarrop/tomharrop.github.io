@@ -9,11 +9,8 @@ toc_sticky: true
 ---
 ------------------------------------------------------------------------
 
-I am a geneticist working with large-scale genomic and transcriptomic
-datasets.  
-I generate data using 2<sup>nd</sup>- and 3<sup>rd</sup>-generation
-sequencing. I use `R` and `python` to tidy, analyse and visualise data
-and communicate results.
+I am a genomics scientist working with large-scale bioinformatic and
+genetic datasets.
 
 ------------------------------------------------------------------------
 
@@ -21,19 +18,25 @@ and communicate results.
 
 ### Technical skills {#technical-skills}
 
-I’m an experienced geneticist and molecular biologist. I work on
-research I’ve developed myself, and in collaboration with internal,
-external and commercial research partners.
+I’m an experienced bioinformatician, geneticist and molecular biologist.
 
 I am skilled at the entire wet-lab workflow for producing short and long
 read sequencing libraries, from nucleic acid extraction to library
-preparation and running sequencing instruments. I have experience with
-classical genetic approaches with live organisms, including
-transformation, crosses, microdissection and bioassays.
+preparation and running sequencing instruments. I generate data using
+2<sup>nd</sup>- and 3<sup>rd</sup>-generation sequencing. I have
+experience with classical genetic approaches with live organisms,
+including transformation, crosses, microdissection and bioassays.
 
-My main tools for programming and data analysis are Python and R. I’m
-also experienced with bash scripting. I visualise and communicate my
-results with ggplot2, Markdown, Pandoc, TeX and a bit of html & css.
+My main tools for programming and data analysis are Python and R. I use
+workflow managers, version control, containerisation and
+high-performance computing for bioinformatics. I’m also experienced with
+bash scripting and \*nix system administration.
+
+I’m comfortable communicating complex bioinformatics and genetic results
+to stakeholders and students. I visualise and share my results with
+ggplot2, Markdown, Pandoc, TeX and a bit of html & css. I teach complex
+bioinformatics algorithms to postgraduate students in classroom and
+one-on-one settings.
 
 <!-- I use git, Snakemake, Singularity and Docker to keep my work reproducible.
 I've used job schedulers like SLURM, LSF and SGE for managing jobs in high-performance computing environments.
