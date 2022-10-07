@@ -52,8 +52,10 @@ I'm interested in research related to agriculture and development, tools and tec
 ### Research & University positions
 
 2021--Present
-:  **Academic Specialist (B)**, Melbourne Bioinformatics, University of Melbourne, Australia.  
+:  **Academic Specialist (B)**, Melbourne Bioinformatics, University of Melbourne, Australia.
+:   **Bioinformatician**, Galaxy Australia.  
     In my current position, I provide training and support to researchers and projects using bioinformatics in Melbourne's biosciences precinct. 
+    I am also part of the team that develops and runs Galaxy Australia.
 
 2020--2021
 :   **Research Fellow**, Biochemistry Department, University of Otago, Dunedin, New Zealand.  

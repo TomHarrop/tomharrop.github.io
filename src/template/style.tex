@@ -58,6 +58,14 @@
   [number=no, before={\blank[big]}, after={\blank[small]},
    indentnext=no]
 
+% Heading levels
+\definesectionlevels
+   [default]
+   [section,
+    subsection,
+    subsubsection]
+
+
 % Descriptions
 \definedescription[description]
   [alternative=left, width=6em,
@@ -93,7 +101,7 @@
 
 \starttext
 
-\section[title]{Thomas Harrop}
+\startsectionlevel[title={Thomas Harrop},reference={start}]
 
 \startblockquote
 
@@ -102,6 +110,8 @@
 \stopblockquote
 
 $body$
+
+\stopsectionlevel
 
 \startblockquote
 
