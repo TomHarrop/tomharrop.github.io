@@ -24,15 +24,15 @@ I am a genomics scientist working with large-scale bioinformatic and genetic dat
 
 I'm an experienced bioinformatician, geneticist and molecular biologist.
 
-I am skilled at the entire wet-lab workflow for producing short and long read sequencing libraries, from nucleic acid extraction to library preparation and running sequencing instruments.
-I generate data using 2^nd^- and 3^rd^-generation sequencing.
-I have experience with classical genetic approaches with live organisms, including transformation, crosses, microdissection and bioassays.
-
 My main tools for programming and data analysis are Python and R.
 I use workflow managers, version control, containerisation and high-performance computing for bioinformatics.
 I'm also experienced with bash scripting and \*nix system administration.
 
-I'm comfortable communicating complex bioinformatics and genetic results to stakeholders and students.
+I am skilled at the entire wet-lab workflow for producing short and long read sequencing libraries, from nucleic acid extraction to library preparation and running sequencing instruments.
+I generate data using 2^nd^- and 3^rd^-generation sequencing.
+I have experience with classical genetic approaches with live organisms, including transformation, crosses, microdissection and bioassays.
+
+I enjoy communicating complex bioinformatics and genetic results to stakeholders and students.
 I visualise and share my results with ggplot2, Markdown, Pandoc, TeX and a bit of html & css.
 I teach complex bioinformatics algorithms to postgraduate students in classroom and one-on-one settings.
 
