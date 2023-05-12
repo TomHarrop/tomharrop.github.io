@@ -54,14 +54,21 @@ biology.
 
 ### Research & University positions {#research-university-positions}
 
+2023–Present
+:   **Scientific Officer**, CSIRO, Clayton, Australia.  
+    I contribute to the development of a genomics platform for natural
+    resource management. This involves experiment design, method
+    development and data analysis to address challenges in conservation
+    genomics, species identification, and biodiscovery in plants and
+    insects.
+
 2021–Present
-:   **Academic Specialist (B)**, Melbourne Bioinformatics, University of
+:   **Academic Specialist**, Melbourne Bioinformatics, University of
     Melbourne, Australia.
 :   **Bioinformatician**, Galaxy Australia.  
-    In my current position, I provide training and support to
-    researchers and projects using bioinformatics in Melbourne’s
-    biosciences precinct. I am also part of the team that develops and
-    runs Galaxy Australia.
+    In this position, I provide training and support to researchers and
+    projects using bioinformatics in Melbourne’s biosciences precinct. I
+    am also part of the team that develops and runs Galaxy Australia.
 
 2020–2021
 :   **Research Fellow**, Biochemistry Department, University of Otago,
