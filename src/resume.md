@@ -207,6 +207,8 @@ See my [Google scholar](https://scholar.google.com/citations?user=WEstgDcAAAAJ&h
 
 ### Contributions to articles
 
+Inwood, S.N., **Harrop, T.W.R.**, and Dearden, P.K. (2023). The venom composition and parthenogenesis mechanism of the parasitoid wasp *Microctonus hyperodae*, a declining biocontrol agent. Insect Biochemistry and Molecular Biology 153. [doi:10.1016/j.ibmb.2022.103897](https://doi.org/10.1016/j.ibmb.2022.103897).
+
 McCulloch, G.A., Guhlin, J., Dutoit, L., **Harrop, T.W.R.**, Dearden  P.K., and Waters, J.M. (2021). Genomic Signatures of Parallel Alpine Adaptation in Recently Evolved Flightless Insects. Molecular Ecology 30 (24): 6677--86. [doi:10.1111/mec.16204](https://doi.org/10.1111/mec.16204).
 
 Dussex, N. *et al*. (2021). Population Genomics of the Critically Endangered Kākāpō. Cell Genomics 1 (1): 100002. [doi:10.1016/j.xgen.2021.100002](https://doi.org/10.1016/j.xgen.2021.100002).
