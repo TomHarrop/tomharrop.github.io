@@ -68,16 +68,17 @@
 
 % Descriptions
 \definedescription[description]
-  [alternative=left, width=6em,
+  [alternative=left, width=9em,
    headstyle=bold, style=normal,
-   headalign=flushright,
-   before={\setupnarrower[right=4em]%
-           \startnarrower[right]},
+   headalign=flushleft,
+   before={\setupnarrower[right=1em, left=1em]%
+           \startnarrower[right, left]},
    after={\stopnarrower}]
 
 % negative indent for reference section
 \definestartstop[negindent]
-  [before={\startnarrower[left]%
+  [before={\setupnarrower[right=1em, left=1em]%
+           \startnarrower[left]%
            \setupindenting[-\leftskip,yes,first]%
            \setuphead[subsection, subsubsection][indentnext=yes]},
    after={\stopnarrower%

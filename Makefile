@@ -11,7 +11,7 @@ assets/cv.pdf: src/template/style.tex src/resume.md
 		-o assets/cv.tex \
 		src/resume.md ; \
 	sed -e \
-		's/\\subsection\[title={Publications},reference={references}\]/\\startnegindent\n\\subsection\[title={Publications},reference={references}\]/g' \
+		'/reference={journal-articles}/a\\\startnegindent' \
 		assets/cv.tex \
 	| sed -e \
 	's/\\thinrule/\\stopnegindent\n\\thinrule/g' \

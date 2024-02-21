@@ -7,7 +7,7 @@ toc_label: "About me"
 toc_sticky: true
 # toc_icon: "fas fa-bars"
 ---
-------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 I am a genomics scientist working with large-scale bioinformatic and
 genetic datasets.
@@ -25,18 +25,22 @@ workflow managers, version control, containerisation and
 high-performance computing for bioinformatics. I’m also experienced with
 bash scripting and \*nix system administration.
 
+I am currently using my strategic development and user support skills in
+the context of a team working to provide national bioinformatics
+infrustructure, in collaboration with a distributed global team.
+
 I am skilled at the entire wet-lab workflow for producing short and long
 read sequencing libraries, from nucleic acid extraction to library
-preparation and running sequencing instruments. I generate data using
-2<sup>nd</sup>- and 3<sup>rd</sup>-generation sequencing. I have
-experience with classical genetic approaches with live organisms,
-including transformation, crosses, microdissection and bioassays.
+preparation and running instruments for 2<sup>nd</sup>- and
+3<sup>rd</sup>-generation sequencing. I have experience with classical
+genetic approaches with live organisms, including transformation,
+crosses, microdissection and bioassays.
 
 I enjoy communicating complex bioinformatics and genetic results to
-stakeholders and students. I visualise and share my results with
-ggplot2, Markdown, Pandoc, TeX and a bit of html & css. I teach complex
-bioinformatics algorithms to postgraduate students in classroom and
-one-on-one settings.
+research partners, external stakeholders and students. I visualise and
+share my results with ggplot2, Markdown, Pandoc, TeX and a bit of html &
+css. I teach complex bioinformatics algorithms to postgraduate students
+in classroom and one-on-one settings.
 
 <!-- I use git, Snakemake, Singularity and Docker to keep my work reproducible.
 I've used job schedulers like SLURM, LSF and SGE for managing jobs in high-performance computing environments.
@@ -46,17 +50,17 @@ I'm comfortable working with, installing and administrating *nix operating syste
 
 ### Research {#research}
 
-I’m interested in research related to agriculture and development, tools
-and techniques in bioinformatics and evolutionary and comparative
-biology.
+I’m interested in research related to agriculture and sustainable
+development, tools and techniques in bioinformatics and evolutionary and
+comparative biology.
 
 ## Experience {#experience}
 
-### Research & University positions {#research-university-positions}
+### Current positions {#current-positions}
 
 2023–Present
 :   **Scientific Officer**, CSIRO, Clayton, Australia.  
-    I contribute to the development of a genomics platform for natural
+    I contribute to development of a genomics platform for natural
     resource management. This involves experiment design, method
     development and data analysis to address challenges in conservation
     genomics, species identification, and biodiscovery in plants and
@@ -64,17 +68,20 @@ biology.
 
 2021–Present
 :   **Academic Specialist**, Melbourne Bioinformatics, University of
-    Melbourne, Australia.
-:   **Bioinformatician**, Galaxy Australia.  
-    In this position, I provide training and support to researchers and
-    projects using bioinformatics in Melbourne’s biosciences precinct. I
-    am also part of the team that develops and runs Galaxy Australia.
+    Melbourne, Australia, and **Bioinformatician**, Galaxy Australia.  
+    I provide training and support to researchers and projects who use
+    bioinformatics in Melbourne’s biosciences precinct. I am part of the
+    team that develops and runs Galaxy Australia and global Galaxy
+    infrastructure.
+
+### Previous research and University positions {#previous-research-and-university-positions}
 
 2020–2021
 :   **Research Fellow**, Biochemistry Department, University of Otago,
     Dunedin, New Zealand.  
-    After promotion to Research Fellow, I began developing an
-    independent genomics and bioinformatics research program.
+    I began developing an independent genomics and bioinformatics
+    research program related to genomic selection and pest management
+    problems in New Zealand.
 
 2017–2020
 :   **Post-doctoral researcher**, Laboratory for Evolution and
@@ -106,8 +113,7 @@ biology.
     Germany.  
     At the Max Planck Institute I worked on a bioinformatic and
     molecular biology project to compare the transcriptional response of
-    different land plants to UV-B exposure, which acts as an
-    environmental signal.
+    different land plants environmental signals.
 
 ### Professional positions {#professional-positions}
 
@@ -126,10 +132,10 @@ biology.
     Melbourne, Parkville, Australia.  
     Thesis: [*The functions of cytochrome P450s in
     Drosophila*.](http://cat.lib.unimelb.edu.au/record=b4827945~S32)  
-    During my Ph.D. I used classical genetics and modern molecular
-    biology, including transgenic manipulation of gene expression and
-    comparative studies of gene function, to investigate the functions
-    of cytochrome P450 genes in the Drosophila genus.
+    I used classical genetics and modern molecular biology, including
+    transgenic manipulation of gene expression and comparative studies
+    of gene function, to investigate the functions of cytochrome P450
+    genes in the Drosophila genus.
 
 2002–2005
 :   **Bachelor of Science with Honours (first class)**, the University
@@ -152,7 +158,10 @@ Nationalities
 
 ## Teaching {#teaching}
 
-2021-present
+2021–current
+:   **BINF90002, Elements of Bioinformatics**, guest lecturer.
+
+2021–2023
 :   **COMP90014, Algorithms for Bioinformatics**, Masters of
     Bioinformatics, The University of Melbourne. Subject coordinator and
     lecturer.
@@ -182,11 +191,11 @@ Nationalities
 :   **1<sup>st</sup> Year Genetics**, The University of Melbourne,
     Parkville, Australia.
 
-## Students (co-)supervised {#students-co-supervised}
+### Students (co-)supervised {#students-co-supervised}
 
-Current
-:   Three students, **Masters of Science (Bioinformatics)** University
-    of Melbourne.
+M.Sc. program
+:   Four graduate research students, **Masters of Science
+    (Bioinformatics)**, University of Melbourne.
 
 Sarah Robinson
 :   **Bachelor of Science with Honours**, Genetics, University of Otago,
@@ -208,15 +217,29 @@ Axel Verdier
 ## Service {#service}
 
 Community group
-:   Founder and convenor of the [*Bioinformaticians’
-    Shed*](https://www.melbournebioinformatics.org.au/news/the-toolshed/),
-    for people using bioinformatics around the Parkville precinct,
-    hosted by Melbourne Bioinformatics.
+:   Founder and convenor of the popular
+    [*Bioinformatics Meetups*](https://mdhs.unimelb.edu.au/melbournebioinformatics/teaching-and-training/bioinformatics-meetups)
+    group for people using bioinformatics in the local research
+    community, hosted by Melbourne Bioinformatics.
+
+Genome Annotation
+:   Workshop development and lead trainer, Melbourne Bioinformatics, 12
+    March 2024.
+
+NextFlow
+:   Trainer, CSIRO pipeline development workshop, 23–24 August 2023.
+
+Galaxy development
+:   Tool Development and Galaxy + R training workshops, [Galaxy
+    Community
+    Conference](https://galaxyproject.org/events/gcc2023/schedule/),
+    10–16 July 2023.
 
 RNA-seq
 :   [From reads to differentially expressed
     genes](https://www.biocommons.org.au/events/rnaseq) workshop for
     Australian BioCommons, 23–24 February 2021.
+:   Lead trainer, Melbourne Bioinformatics, 2021–2023.
 
 Reproducible research
 :   [Reproducible research workflows with
@@ -245,11 +268,11 @@ Carpentries
     [RNA-seq-workshop,
     2020](https://github.com/GenomicsAotearoa/RNA-seq-workshop).
 
-## Publications {#references}
+## Publications {#publications}
 
-See my [Google
+See [Google
 scholar](https://scholar.google.com/citations?user=WEstgDcAAAAJ&hl=en)
-profile for the latest list.
+for the current list.
 
 ### Journal articles {#journal-articles}
 
@@ -303,6 +326,12 @@ One 9, e84879.
 <sup>§</sup> Equal contribution
 
 ### Contributions to articles {#contributions-to-articles}
+
+Inwood, S.N., Skelly, J., Guhlin, J.G., **Harrop, T.W.R.**, Goldson,
+S.L., and Dearden, P.K. (2023). Chromosome-level genome assemblies of
+two parasitoid biocontrol wasps reveal the parthenogenesis mechanism and
+an associated novel virus. BMC Genomics 24, 440
+[doi:10.1186/s12864-023-09538-4](https://doi.org/10.1186/s12864-023-09538-4)
 
 Inwood, S.N., **Harrop, T.W.R.**, and Dearden, P.K. (2023). The venom
 composition and parthenogenesis mechanism of the parasitoid wasp
