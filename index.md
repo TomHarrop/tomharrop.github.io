@@ -14,8 +14,6 @@ genetic datasets.
 
 ------------------------------------------------------------------------
 
-## About me {#about-me}
-
 ### Technical skills {#technical-skills}
 
 I’m an experienced bioinformatician, geneticist and molecular biologist.

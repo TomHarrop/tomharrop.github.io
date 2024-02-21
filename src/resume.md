@@ -18,8 +18,6 @@ I am a genomics scientist working with large-scale bioinformatic and genetic dat
 
 ----
 
-## About me
-
 ### Technical skills
 
 I'm an experienced bioinformatician, geneticist and molecular biologist.
