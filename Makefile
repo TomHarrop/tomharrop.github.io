@@ -13,8 +13,6 @@ assets/cv.pdf: src/template/style.tex src/resume.md
 	sed -e \
 		'/reference={journal-articles}/a\\\startnegindent' \
 		assets/cv.tex \
-	| sed -e \
-	's/\\thinrule/\\stopnegindent\n\\thinrule/g' \
 	> assets/cv_mod.tex ;
 	(cd assets && context cv_mod.tex --result=cv.pdf)
 

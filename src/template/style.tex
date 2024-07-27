@@ -1,12 +1,9 @@
 % Layout
 \setuppapersize[A4]
-\setuplayout[width=fit, height=middle,
-             leftmargin=20mm, rightmargin=20mm,
-             topspace=30mm, bottomspace=30mm,
-             header=0mm, footer=0mm]
 \setupalign[flushleft, nothyphenated, hanging]
 \setupwhitespace[medium]
 \setupindenting[no]
+\setuppagenumbering[location=]
 
 % PDF title
 \setupinteraction[state=start, title=Thomas  Harrop]
@@ -16,7 +13,7 @@
 \definefontfamily [mainface] [ss] [Lato]
 \definefontfamily [mainface] [tt] [Inconsolatazi4] [tf=style:regular]
 \definefontfamily [mainface] [mm] [Lato]
-\setupbodyfont[mainface, 12pt]
+\setupbodyfont[mainface, 11pt]
 \definefont[ms][Mono sa 1.1]
 % \defineframed
 %   [dohotkey]
@@ -26,9 +23,31 @@
 % \def\hotkey#1{\dohotkey{\hspace[hotkey]#1\hspace[hotkey]}}
 % \setuptype[style=\ms, command=\hotkey]
 \setuptype[style=\ms]
-\setuplanguage[en][spacing=packed]
+\setuplanguage[en]
+% \setuplanguage[en][spacing=packed]
 \language[en]
 \setbreakpoints[compound]
+\setupinterlinespace
+
+% 2-3 line lengths, see https://practicaltypography.com/line-length.html
+\definemeasure[alphabet][\widthofstring{abcdefghijklmnopqrstuvwxyz}]
+\definemeasure[myrulewidth][\dimexpr (\measure{alphabet}*2) \relax]
+\definemeasure[mytextwidth][\dimexpr ((\measure{alphabet}*28)/10) \relax]
+\definemeasure[mymargin][\dimexpr (\paperwidth-\measure{mytextwidth})/2 \relax ]
+
+\setuplayout[width=\measure{mytextwidth},
+             backspace=\measure{mymargin},
+             marginspace=0mm,
+             leftmargin=0mm,
+             rightmargin=\measure{mymargin},
+             edgedistance=0mm,
+             leftedge=0mm,
+             rightedge=0mm,
+             height=middle,
+             topspace=\measure{mymargin},
+             header=0mm,
+             footer=0mm]
+
 
 % Colour
 \setupcolor[hex]
@@ -68,16 +87,17 @@
 
 % Descriptions
 \definedescription[description]
-  [alternative=left, width=9em,
+  [alternative=left,
+   width=\widthofstring{\bf{Reproducible research}},
    headstyle=bold, style=normal,
-   headalign=flushleft,
-   before={\setupnarrower[right=1em, left=1em]%
+   headalign=flushright,
+   before={\setupnarrower[right=0em, left=0em]%
            \startnarrower[right, left]},
    after={\stopnarrower}]
 
 % negative indent for reference section
 \definestartstop[negindent]
-  [before={\setupnarrower[right=1em, left=1em]%
+  [before={\setupnarrower[right=2em, left=2em]%
            \startnarrower[left]%
            \setupindenting[-\leftskip,yes,first]%
            \setuphead[subsection, subsubsection][indentnext=yes]},
@@ -88,7 +108,9 @@
 \define\thinrule{%
   \startalignment[center]%
   \midaligned{%
-  \blackrule[width=150mm, height=.5\linewidth, depth=.5\linewidth]}%
+  \blackrule[
+  width=\measure{myrulewidth},
+  height=.5\linewidth, depth=.5\linewidth]}%
   \stopalignment
   }
 
@@ -102,7 +124,7 @@
 
 \starttext
 
-\startsectionlevel[title={Thomas Harrop},reference={start}]
+\startsectionlevel[title={\blank[2*line]Thomas Harrop},reference={start}]
 
 \startblockquote
 
@@ -111,6 +133,10 @@
 \stopblockquote
 
 $body$
+
+\stopnegindent
+
+\thinrule
 
 \stopsectionlevel
 

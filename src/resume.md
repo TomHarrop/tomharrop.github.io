@@ -58,9 +58,9 @@ I'm interested in research related to agriculture and sustainable development, t
     This involves experiment design, method development and data analysis to address challenges in conservation genomics, species identification, and biodiscovery in plants and insects.
 
 2021--Present
-:  **Academic Specialist**, Melbourne Bioinformatics, University of Melbourne, Australia, and **Bioinformatician**, Galaxy Australia.  
+:  **Academic Specialist**, Australian BioCommons and Melbourne Bioinformatics, University of Melbourne, Australia.  
     I provide training and support to researchers and projects who use bioinformatics in Melbourne's biosciences precinct. 
-    I am part of the team that develops and runs Galaxy Australia and global Galaxy infrastructure.
+    My current focus as a **Bioinformatician** with Galaxy Australia is on developing and running Galaxy Australia, and global Galaxy infrastructure.
 
 ### Previous research and University positions
 
@@ -106,6 +106,7 @@ pour le Développement (IRD), Montpellier, France.
 Awards
 :   **2006--2009**, Australian Postgraduate Award
 
+
 ## Personal information
 
 Languages
@@ -116,8 +117,6 @@ Languages
 Nationalities
 :   Australian and British
 
-
-\page 
 
 ## Teaching
 
@@ -163,8 +162,6 @@ Swarit Jaisal
 Axel Verdier
 :   **Master of Science**, Sciences et Technologies de l’Information et de la
 Communication pour la Santé, Université de Montpellier, France.
-
-\page
 
 ## Service
 
@@ -283,4 +280,3 @@ De novo *sequencing of Argentine stem weevil and its parasitoid wasp biocontrol 
 
 *RNA interference of the Cytochrome P450 redox partners* Cpr *and* dare *uncovers novel P450 functions in* Drosophila melanogaster. **Poster presentation** at the 50^th^ Annual Drosophila Research Conference, Chicago, USA, 2009.
 
----
